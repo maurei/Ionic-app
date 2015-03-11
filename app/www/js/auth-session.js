@@ -11,7 +11,7 @@ racts.service('authService', ['$http', '$q', function($http, $q){
 				defer.reject()
 			}
 			else{
-			var currentUser = {email: credentials.email, id: data.user}
+			var currentUser = {email: credentials.email, id: data.user, username: data.username}
 			defer.resolve(currentUser)
 			}
 		})
@@ -70,7 +70,7 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 			registerService.submit().then( successfullAuth, errorAuth)
 		}
 
-		$scope.frontPageTask = 'blablabla'
+
 		$scope.loggedIn = false
 		// $scope.mainpageTask = 'foo text'
 
@@ -81,7 +81,9 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 			console.log('succesfullAuth!')
 			activeTasksResolverCopy.get().then(function(data){
 				$scope.loggedIn = true
-				$scope.frontPageTask = "hooray"
+				$scope.frontPageTask = data
+				$scope.username = session.currentUser().username
+
 			})
 
 

@@ -11,6 +11,9 @@
 </style>
   
   <ion-content has-header="true" padding='true' ng-hide='loggedIn'>
+
+  <div class="welcome"> Welcome! </div>
+
     <div class="padding">
       <a ng-click='showPopup()'>
         <button class="button button-block button-positive">
@@ -20,10 +23,13 @@
     </div>
   </ion-content>
 
-  <h1><span ng-bind='frontPageTask'></span></h1>
-  <ion-content has-header="true" padding='true' ng-if='loggedIn'>
-
   <h1><span ng-model='frontPageTask'></span> </h1>
-    <div class="ion-gear-b" ng-click='gearButton()'>
+    <h2 class="usernamehead" ng-if='loggedIn'> Hello, <span ng-bind='username'></span> </h2>
+    <div class="random_task" ng-if='loggedIn' ng-bind='frontPageTask'>
+    </div>
+
+  <ion-content has-header="true" padding='true' ng-if='loggedIn'>
+  <h1><span></span> </h1>
+    <div class="ion-gear-a" ng-click='gearButton()' id="12505button">
     </div>
   </ion-content>
