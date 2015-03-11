@@ -20,9 +20,10 @@
     </div>
   </ion-content>
 
-
+  <h1><span ng-bind='frontPageTask'></span></h1>
   <ion-content has-header="true" padding='true' ng-if='loggedIn'>
-  <h1><span></span> </h1>
+
+  <h1><span ng-model='frontPageTask'></span> </h1>
     <div class="ion-gear-b" ng-click='gearButton()'>
     </div>
   </ion-content>

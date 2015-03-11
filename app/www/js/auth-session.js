@@ -53,7 +53,7 @@ racts.service('registerService', ['$http','$q',function($http, $q){
 
 }])
 
-racts.controller('authController', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService, $ionicPopup){
+racts.controller('authController', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService, $ionicPopup, activeTasksResolverCopy){
 
 
 		$scope.registrationDetails = registerService.userDetails
@@ -70,7 +70,7 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 			registerService.submit().then( successfullAuth, errorAuth)
 		}
 
-
+		$scope.frontPageTask = 'blablabla'
 		$scope.loggedIn = false
 		// $scope.mainpageTask = 'foo text'
 
@@ -78,7 +78,12 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 		function successfullAuth(user){
 			session.setCurrentUser(user)
 			$scope.loggedIn = true
-			// $state.go('home.active')
+			console.log('succesfullAuth!')
+			activeTasksResolverCopy.get().then(function(data){
+				$scope.loggedIn = true
+				$scope.frontPageTask = "hooray"
+			})
+
 
 		}
 		function errorAuth(){
