@@ -72,6 +72,7 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 
 
 		$scope.loggedIn = false
+		// $scope.mainpageTask = 'foo text'
 
 
 		function successfullAuth(user){
