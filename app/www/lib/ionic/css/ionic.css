@@ -35,7 +35,7 @@
 
 .usernamehead, .welcome{
   color: white;
-  font-size: 40px;
+  font-size: 48px;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   width: 73%;
@@ -44,6 +44,7 @@
 }
 
 .welcome{
+  font-size: 40px;
   width: 60%;
 }
 .padding{
@@ -51,11 +52,12 @@
 }
 
 .random_task{
+  margin-top: 17%;
   width: 85%;
   height: 70%;
   overflow: scroll;
   color: white;
-  font-size: 32px;
+  font-size: 22px;
   font-weight: bolder;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
@@ -785,6 +787,13 @@
   color: black;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
+    -webkit-animation-name: myfirst;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
 
   font-size: 61px;
    position: relative;
