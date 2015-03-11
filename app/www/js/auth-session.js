@@ -53,12 +53,15 @@ racts.service('registerService', ['$http','$q',function($http, $q){
 
 }])
 
-racts.controller('authController', ['$state','$scope','currentUser', 'authService','localStorageCheck', 'session', 'registerService', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService){
+racts.controller('authController', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService, $ionicPopup){
+
+
 		$scope.registrationDetails = registerService.userDetails
 
 
 		$scope.credentials = authService.credentials
-		$scope.submit = function(){
+
+		var submit = function(){
 			console.log('submitting..')
 			authService.submit().then( successfullAuth, errorAuth )
 		}
@@ -73,11 +76,51 @@ racts.controller('authController', ['$state','$scope','currentUser', 'authServic
 
 		}
 		function errorAuth(){
-			console.log('Authentication failed!')
+			alert('Authentication failed!')
 		}
+
+		$scope.gearButton = function(){
+			$state.go('home')
+		}
+
+
+		$scope.showPopup = function() {
+	  	$scope.data = {}
+
+		  // An elaborate, custom popup
+		  var myPopup = $ionicPopup.show({
+		    templateUrl: 'templates/loginpopup.html',
+		    title: 'Please enter your credentials',
+		    subTitle: 'Or register using our website',
+		    scope: $scope,
+		    buttons: [
+		      { text: 'Cancel' },
+		      {
+		        text: '<b>Submit</b>',
+		        type: 'button-positive',
+		        onTap: function(e) {
+		        	console.log(e)
+		          if (!$scope.credentials().password) {
+		          	console.log('no pass')
+		            e.preventDefault();
+		          }
+		          else if (!$scope.credentials().email) {
+		            e.preventDefault();
+		          }
+		          else {
+		          	submit()
+		          }
+		          
+		        }
+		      }
+		    ]
+		  });
+		 } 
+
+
 	// }
 
-}])
+})
 
 
 

@@ -10,9 +10,9 @@ $stateProvider
       resolve: {
         localStorageCheck: ['$state','session', function($state, session){
           console.log('localstoragecheck ')
-          return session.localStorageCheck().then( function(loggedIn){
-            if(loggedIn){$state.go('home.active')}
-          })
+          // return session.localStorageCheck().then( function(loggedIn){
+          //   if(loggedIn){$state.go('home.active')}
+          // })
         }]
       },
       url: '/',
@@ -20,10 +20,10 @@ $stateProvider
       controller: 'authController'
     })
     .state('home', {
-      abstract: true,
+      abstract: false,
       url: '',
       templateUrl: '/templates/home.html',
-      controller: 'slideBoxController'
+      controller: 'tabMenusController'
     })
 
 
@@ -157,25 +157,15 @@ racts.run(['subscriptionsResolver','session', '$location', '$ionicHistory', '$ro
 }])
 
 
-racts.controller('slideBoxController', function($scope, $ionicSlideBoxDelegate, $state){
+racts.controller('tabMenusController', function($scope, $ionicSlideBoxDelegate, $state){
 
-    var slideStateMapper = {
-      0: function(){return $state.go('home.categories')},
-      1: function(){return $state.go('home.active')},
-      2: function(){return $state.go('home.subscriptions')},
-    }
-
-    $scope.slideChange = function(index){
-      console.log('I am now at slide: '+index)
-      typeof(index)
-      slideStateMapper[index]()
-    }
-
-    $scope.nextSlide = function() {
-    $ionicSlideBoxDelegate.next();
+  $scope.back = function(){
+    console.log('back button clicked')
+    $state.go('auth', {location: 'replace'})
   }
 
-console.log('slideBoxController!')
+
+  console.log('tabController')
 
 })
 

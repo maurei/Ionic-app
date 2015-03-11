@@ -15,6 +15,7 @@ racts.service('activeTasksResolver', function($http, $q, activeTasksModel, sessi
 
 	var getActiveTasks = $http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
 				.success(function(response) {
+					console.log('win')
 					activeTasksModel.assignments = response
 				})
 				.error(function(response){

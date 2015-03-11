@@ -17,7 +17,6 @@ racts.service('subscriptionsResolver', ['$http', '$q', 'subscriptionsModel', 'se
 	var getSubscriptions = $http.get('http://localhost:3000/users/1/subscriptions')
 				.success(function(response) {
 					subscriptionsModel.list = response.list
-					console.log('subscriptionsResolver launched!!! ')
 				})
 				.error(function(response){
 					console.log('error')
