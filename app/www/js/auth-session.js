@@ -70,9 +70,14 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 			registerService.submit().then( successfullAuth, errorAuth)
 		}
 
+
+		$scope.loggedIn = false
+
+
 		function successfullAuth(user){
 			session.setCurrentUser(user)
-			$state.go('home.active')
+			$scope.loggedIn = true
+			// $state.go('home.active')
 
 		}
 		function errorAuth(){
