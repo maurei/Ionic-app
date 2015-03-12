@@ -14,7 +14,15 @@ racts.service('activeTasksResolverCopy', function($http, $q, activeTasksModel, s
 			var defer = $q.defer();
 			$http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
 				.success(function(response) {
+					console.log(response)
+					console.log('***********')
+					var frontpage;
+					if(response.length === 0){
+						frontpage = 'You have no assigned kind acts. Sign up for a category!'
+					}
+					else{
 					frontpage = response[0].description
+					}
 					defer.resolve(frontpage)
 				})
 				.error(function(response){

@@ -80,6 +80,7 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 			$scope.loggedIn = true
 			console.log('succesfullAuth!')
 			activeTasksResolverCopy.get().then(function(data){
+				console.log(session.currentUser())
 				$scope.loggedIn = true
 				$scope.frontPageTask = data
 				$scope.username = session.currentUser().username
