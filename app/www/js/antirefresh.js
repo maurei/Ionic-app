@@ -1,6 +1,6 @@
-racts.service('antiRefreshService', function($http, $q, availableModel, subscriptionsModel, session, activeTasksModel, completedTasksModel ){
+racts.service('antiRefreshService', function($http, $q, availableModel, subscriptionsModel, session, activeTasksModel, completedTasksModel, $rootScope ){
 
-	var reloadAvailable = function(boolean){
+	var reloadAvailable = function(boolean, scope){
 		$http.get('http://localhost:3000/categories/?user_id=' + session.currentUser().id )
 				.success(function(response) {
 						while(availableModel.list.length > 0) {
@@ -45,7 +45,7 @@ racts.service('antiRefreshService', function($http, $q, availableModel, subscrip
 
 
 
-	var reloadActive = function(){
+	var reloadActive = function(task){
 		$http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
 			.success(function(response) {
 
@@ -56,6 +56,14 @@ racts.service('antiRefreshService', function($http, $q, availableModel, subscrip
 				    var popped = response.pop();
 				   	activeTasksModel.assignments.push(popped);
 				}
+				if (task.id === $rootScope.taskId){
+					$rootScope.frontPageTask = activeTasksModel.assignments[0].description
+					$rootScope.taskId = activeTasksModel.assignments[0].id
+				}
+
+					// $rootScope.frontPageTask = data.description
+					// $rootScope.taskId = data.id
+					// $rootScope.frontPageTask
 				reloadCompleted()
 			})
 			.error(function(response){

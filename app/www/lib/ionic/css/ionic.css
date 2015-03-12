@@ -46,22 +46,24 @@
 .welcome{
   font-size: 40px;
   width: 60%;
+  font-size: 40px;
 }
 .padding{
   margin-top: 35%;
 }
 
 .random_task{
+  text-align: center;
   margin-top: 17%;
   width: 85%;
   height: 70%;
   overflow: scroll;
   color: white;
-  font-size: 22px;
+  font-size: 30px;
   font-weight: bolder;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
-  line-height: 34px;
+  line-height: 40px;
   margin-right: auto;
   margin-left: auto;
 }

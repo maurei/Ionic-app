@@ -132,9 +132,9 @@ racts.run(function(subscriptionsResolver, session, $location, $ionicHistory, $ro
 
 racts.controller('tabMenusController', function($scope, $ionicSlideBoxDelegate, $state){
 
-  $scope.back = function(){
+  $scope.back = function(arguments){
     console.log('back button clicked')
-    $state.go('auth', {location: 'replace'})
+    $state.go('auth')
   }
 
 

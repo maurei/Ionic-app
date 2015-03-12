@@ -1,6 +1,6 @@
 <style type="text/css">
 .pane, .view {
-  background-image: url("../../../img/background1.jpg");
+  background-image: url("../../../img/bawbackground.jpg");
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
@@ -28,7 +28,7 @@
 
   <div class="random_task" ng-if='loggedIn'>
   <h1><span ng-model='frontPageTask'></span> </h1>
-    <h2 class="usernamehead" ng-if='loggedIn'> Hello, <span ng-bind='username'></span> </h2>
+    <h2 class="usernamehead" ng-if='loggedIn' align='center'> Hello, <span ng-bind='username'></span> </h2>
     <div class="random_task" ng-if='loggedIn' ng-bind='frontPageTask'>
     </div>
 
