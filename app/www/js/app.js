@@ -1,4 +1,4 @@
-var racts = angular.module('racts', ['ionic'])
+var racts = angular.module('racts', ['ionic', 'ngCordova'])
 
 racts.config(function($stateProvider, $urlRouterProvider) {
   
@@ -118,43 +118,16 @@ $stateProvider
 
 })
 
-racts.run(['subscriptionsResolver','session', '$location', '$ionicHistory', '$rootScope', '$state', '$stateParams', function(subscriptionsResolver, session, $location, $ionicHistory, $rootScope, $state, $stateParams){
+racts.run(function(subscriptionsResolver, session, $location, $ionicHistory, $rootScope, $state, $stateParams){
 
   if( !session.currentUser() ){
     $location.path('/')
   }
 
-  
-
-//   function reload() {
-//     console.log('reload triggered!')
-//     var current = $state.current;
-//     console.log('state I will try to navigate to:')
-//     console.log(current)
-//     var params = angular.copy($stateParams);
-//     $state.transitionTo(current, params, { reload: true, inherit: true, notify: true });
-// }
 
 
 
-
-//   $rootScope.$on('subscribed', function(){
-//     console.log('subscribed observed!')
-//     reload()
-
-//   })
-
-
-//    $rootScope.$on('$stateChangeStart', function(event, toState, toParams, fromState, fromParams){
-//        // if internal variable is true
-//        //   set internal variable to false
-//        //   prevent default on state transition
-//        //   
-
-//    });
-
-
-}])
+})
 
 
 racts.controller('tabMenusController', function($scope, $ionicSlideBoxDelegate, $state){

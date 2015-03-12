@@ -11,7 +11,7 @@ racts.service('authService', ['$http', '$q', function($http, $q){
 				defer.reject()
 			}
 			else{
-			var currentUser = {email: credentials.email, id: data.user}
+			var currentUser = {email: credentials.email, id: data.user, username: data.username}
 			defer.resolve(currentUser)
 			}
 		})
@@ -53,7 +53,7 @@ racts.service('registerService', ['$http','$q',function($http, $q){
 
 }])
 
-racts.controller('authController', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService, $ionicPopup){
+racts.controller('authController', function($state, $scope, currentUser, authService, localStorageCheck, session, registerService, $ionicPopup, activeTasksResolverCopy){
 
 
 		$scope.registrationDetails = registerService.userDetails
@@ -78,7 +78,14 @@ racts.controller('authController', function($state, $scope, currentUser, authSer
 		function successfullAuth(user){
 			session.setCurrentUser(user)
 			$scope.loggedIn = true
-			// $state.go('home.active')
+			console.log('succesfullAuth!')
+			activeTasksResolverCopy.get().then(function(data){
+				$scope.loggedIn = true
+				$scope.frontPageTask = data
+				$scope.username = session.currentUser().username
+
+			})
+
 
 		}
 		function errorAuth(){

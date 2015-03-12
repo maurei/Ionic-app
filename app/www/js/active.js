@@ -6,16 +6,34 @@ racts.factory('activeTasksModel', [function() {
 	return data;
 }]);
 
+racts.service('activeTasksResolverCopy', function($http, $q, activeTasksModel, session) {
+
+	console.log('activeTaskResolverCopy!')
+
+	this.get =  function(){
+			var defer = $q.defer();
+			$http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
+				.success(function(response) {
+					frontpage = response[0].description
+					defer.resolve(frontpage)
+				})
+				.error(function(response){
+					console.log('error with fetching active tasks')
+				})
+				return defer.promise
+			}
+
+
+})
+
 
 
 racts.service('activeTasksResolver', function($http, $q, activeTasksModel, session) {
 
 	console.log('activeTaskResolver!')
 
-
 	var getActiveTasks = $http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
 				.success(function(response) {
-					console.log('win')
 					activeTasksModel.assignments = response
 				})
 				.error(function(response){
