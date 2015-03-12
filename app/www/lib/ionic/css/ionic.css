@@ -44,6 +44,7 @@
 }
 
 .welcome{
+  font-size: 40px;
   width: 60%;
   font-size: 40px;
 }
@@ -52,17 +53,17 @@
 }
 
 .random_task{
-  text-align: justify;
+  text-align: center;
   margin-top: 17%;
   width: 85%;
   height: 70%;
   overflow: scroll;
   color: white;
-  font-size: 22px;
+  font-size: 30px;
   font-weight: bolder;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
-  line-height: 34px;
+  line-height: 40px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -788,6 +789,13 @@
   color: black;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: white;
+    -webkit-animation-name: myfirst;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
 
   font-size: 61px;
    position: relative;
