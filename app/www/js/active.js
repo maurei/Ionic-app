@@ -1,10 +1,10 @@
-racts.factory('activeTasksModel', [function() {
+racts.factory('activeTasksModel', function() {
 
 	var data = {
 		assignments: []
 	}
 	return data;
-}]);
+});
 
 racts.service('activeTasksResolverCopy', function($http, $q, activeTasksModel, session) {
 
@@ -14,14 +14,12 @@ racts.service('activeTasksResolverCopy', function($http, $q, activeTasksModel, s
 			var defer = $q.defer();
 			$http.get('http://localhost:3000/users/'+session.currentUser().id+'/active')
 				.success(function(response) {
-					console.log(response)
-					console.log('***********')
 					var frontpage;
 					if(response.length === 0){
 						frontpage = 'You have no assigned kind acts. Sign up for a category!'
 					}
 					else{
-					frontpage = response[0].description
+					frontpage = response[0]
 					}
 					defer.resolve(frontpage)
 				})
@@ -53,14 +51,13 @@ racts.service('activeTasksResolver', function($http, $q, activeTasksModel, sessi
 })
 
 
-racts.service('activeTasksService', function($http, $q, activeTasksModel,antiRefreshService ) {
+racts.service('activeTasksService', function($rootScope, $http, $q, activeTasksModel,antiRefreshService ) {
 
 		this.activeTasksModel = activeTasksModel
 		this.complete = function(task){
 			$http.put("http://localhost:3000/assignments/" + task.assignment_id+'/complete')
 				.success(function(response) {
-					console.log("DONE!")
-					antiRefreshService.reloadActive()
+					antiRefreshService.reloadActive(task)
 		    })
 		    .error(function(response) {
 		    	console.log("Rejected!")
