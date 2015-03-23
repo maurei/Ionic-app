@@ -1,0 +1,1153 @@
+2015-03-10 18:03:51.742 blank[1515:9571] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/71CA52E3-043E-4788-8E6B-E2AEE71965B9/Library/Cookies/Cookies.binarycookies
+2015-03-10 18:03:51.839 blank[1515:9571] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 18:03:51.839 blank[1515:9571] Multi-tasking -> Device: YES, App: YES
+2015-03-10 18:03:51.841 blank[1515:9571] Unlimited access to network resources
+2015-03-10 18:03:51.939 blank[1515:9571] [CDVTimer][keyboard] 0.072002ms
+2015-03-10 18:03:51.939 blank[1515:9571] [CDVTimer][TotalPluginStartup] 1.394987ms
+2015-03-10 18:03:52.080 blank[1515:9571] Resetting plugins due to page load.
+2015-03-10 18:03:52.434 blank[1515:9571] Finished load of: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Bundle/Application/835FDF18-C82A-4036-B354-4C173E887EB5/blank.app/www/index.html#/
+2015-03-10 18:17:16.065 blank[2074:14707] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/2F826756-C94B-4E17-B87E-8D2C04B973F0/Library/Cookies/Cookies.binarycookies
+2015-03-10 18:17:16.151 blank[2074:14707] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 18:17:16.151 blank[2074:14707] Multi-tasking -> Device: YES, App: YES
+2015-03-10 18:17:16.153 blank[2074:14707] Unlimited access to network resources
+2015-03-10 18:17:16.240 blank[2074:14707] [CDVTimer][keyboard] 0.066996ms
+2015-03-10 18:17:16.240 blank[2074:14707] [CDVTimer][TotalPluginStartup] 0.270009ms
+2015-03-10 18:17:16.364 blank[2074:14707] Resetting plugins due to page load.
+2015-03-10 18:17:16.758 blank[2074:14707] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:17:17.034 blank[2074:14707] slideBoxController!
+2015-03-10 18:17:17.035 blank[2074:14707] activeTaskController initiated
+2015-03-10 18:18:04.144 blank[2074:14707] available resolver initialized!
+2015-03-10 18:18:06.966 blank[2074:14707] completed initiated
+2015-03-10 18:18:08.069 blank[2074:14707] subscriptionsController!
+2015-03-10 18:19:38.935 blank[2074:14707] showtask launched!
+2015-03-10 18:19:53.009 blank[2074:14707] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-09T23:10:03.792Z","updated_at":"2015-03-09T23:10:03.792Z"}]
+2015-03-10 18:19:53.010 blank[2074:14707] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-09T23:10:03.792Z","updated_at":"2015-03-09T23:10:03.792Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-09T23:10:03.647Z","updated_at":"2015-03-09T23:10:03.647Z"}]
+2015-03-10 18:20:21.266 blank[2074:14724] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-10 18:20:21.302 blank[2074:14707] [{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-09T23:10:03.647Z","updated_at":"2015-03-09T23:10:03.647Z"}]
+2015-03-10 18:32:21.291 blank[2435:19201] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/B60BE7E0-54BC-4718-928F-3FA981F5DB4C/Library/Cookies/Cookies.binarycookies
+2015-03-10 18:32:21.411 blank[2435:19201] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 18:32:21.412 blank[2435:19201] Multi-tasking -> Device: YES, App: YES
+2015-03-10 18:32:21.414 blank[2435:19201] Unlimited access to network resources
+2015-03-10 18:32:21.507 blank[2435:19201] [CDVTimer][keyboard] 0.081003ms
+2015-03-10 18:32:21.507 blank[2435:19201] [CDVTimer][TotalPluginStartup] 0.292003ms
+2015-03-10 18:32:21.645 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:32:22.085 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:32:22.679 blank[2435:19201] subscriptionsResolver launched!!! 
+2015-03-10 18:32:22.862 blank[2435:19201] slideBoxController!
+2015-03-10 18:32:22.862 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:32:26.861 blank[2435:19201] available resolver initialized!
+2015-03-10 18:32:28.190 blank[2435:19201] completed initiated
+2015-03-10 18:32:28.836 blank[2435:19201] subscriptionsController!
+2015-03-10 18:35:27.421 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:35:27.638 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:35:27.723 blank[2435:19201] slideBoxController!
+2015-03-10 18:35:27.723 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:35:44.524 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:35:44.661 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:35:44.738 blank[2435:19201] slideBoxController!
+2015-03-10 18:35:44.738 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:35:57.699 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:35:57.817 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:35:57.887 blank[2435:19201] slideBoxController!
+2015-03-10 18:35:57.887 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:36:06.255 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:36:06.540 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:36:06.617 blank[2435:19201] slideBoxController!
+2015-03-10 18:36:06.617 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:36:20.934 blank[2435:19201] subscriptionsController!
+2015-03-10 18:36:31.128 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:36:31.424 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:36:31.492 blank[2435:19201] slideBoxController!
+2015-03-10 18:36:31.492 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:36:39.051 blank[2435:19201] subscriptionsController!
+2015-03-10 18:36:39.982 blank[2435:19201] completed initiated
+2015-03-10 18:36:40.417 blank[2435:19201] available resolver initialized!
+2015-03-10 18:41:32.263 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:41:32.392 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:41:32.463 blank[2435:19201] slideBoxController!
+2015-03-10 18:41:32.463 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:41:48.434 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:41:48.537 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:41:48.602 blank[2435:19201] slideBoxController!
+2015-03-10 18:41:48.602 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:42:43.563 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:42:43.764 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:42:43.835 blank[2435:19201] slideBoxController!
+2015-03-10 18:42:43.836 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:43:03.699 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:43:03.830 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:43:03.844 blank[2435:19201] subscriptionsResolver launched!!! 
+2015-03-10 18:43:03.916 blank[2435:19201] slideBoxController!
+2015-03-10 18:43:03.917 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:43:04.604 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:43:04.930 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:43:05.003 blank[2435:19201] slideBoxController!
+2015-03-10 18:43:05.003 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:43:06.711 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:43:07.097 blank[2435:19201] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:43:07.168 blank[2435:19201] slideBoxController!
+2015-03-10 18:43:07.168 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:43:12.130 blank[2435:19201] showtask launched!
+2015-03-10 18:43:12.130 blank[2435:19201] subscriptionsController!
+2015-03-10 18:43:15.607 blank[2435:19201] activeTaskController initiated
+2015-03-10 18:44:12.962 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:44:12.990 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:44:53.237 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:44:53.243 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:46:05.036 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:46:05.044 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:48:22.954 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:48:22.960 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:49:42.119 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:49:42.123 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:51:02.693 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:51:02.696 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:52:08.738 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:52:08.743 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:52:21.628 blank[2435:19201] Resetting plugins due to page load.
+2015-03-10 18:52:21.633 blank[2435:19201] Failed to load webpage with error: Could not connect to the server.
+2015-03-10 18:57:13.583 blank[2905:27324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/EC6CCC6F-DC07-4328-B81B-835B0F5698D5/Library/Cookies/Cookies.binarycookies
+2015-03-10 18:57:13.688 blank[2905:27324] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 18:57:13.689 blank[2905:27324] Multi-tasking -> Device: YES, App: YES
+2015-03-10 18:57:13.690 blank[2905:27324] Unlimited access to network resources
+2015-03-10 18:57:13.788 blank[2905:27324] [CDVTimer][keyboard] 0.078022ms
+2015-03-10 18:57:13.788 blank[2905:27324] [CDVTimer][TotalPluginStartup] 1.425028ms
+2015-03-10 18:57:13.937 blank[2905:27324] Resetting plugins due to page load.
+2015-03-10 18:57:14.283 blank[2905:27324] Finished load of: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Bundle/Application/0D4043CF-73CD-4E21-9369-177AA058A49F/blank.app/www/index.html#/
+2015-03-10 18:57:21.476 blank[3059:27754] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/BF52920A-51BB-404B-ABC4-FB71D8443879/Library/Cookies/Cookies.binarycookies
+2015-03-10 18:57:21.570 blank[3059:27754] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-10 18:57:21.570 blank[3059:27754] Multi-tasking -> Device: YES, App: YES
+2015-03-10 18:57:21.572 blank[3059:27754] Unlimited access to network resources
+2015-03-10 18:57:21.666 blank[3059:27754] [CDVTimer][keyboard] 0.078022ms
+2015-03-10 18:57:21.667 blank[3059:27754] [CDVTimer][TotalPluginStartup] 0.286043ms
+2015-03-10 18:57:21.783 blank[3059:27754] Resetting plugins due to page load.
+2015-03-10 18:57:22.241 blank[3059:27754] Finished load of: http://192.168.1.208:8100/#/
+2015-03-10 18:57:22.514 blank[3059:27754] slideBoxController!
+2015-03-10 18:57:22.514 blank[3059:27754] activeTaskController initiated
+2015-03-10 18:57:50.148 blank[3059:27754] available resolver initialized!
+2015-03-10 18:58:03.190 blank[3059:27754] showtask launched!
+2015-03-10 18:58:16.780 blank[3059:27754] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T01:31:38.655Z","updated_at":"2015-03-11T01:31:38.655Z"}]
+2015-03-10 18:58:17.909 blank[3059:27754] subscriptionsController!
+2015-03-10 18:58:20.554 blank[3059:27754] completed initiated
+2015-03-10 18:58:29.309 blank[3059:27754] deleting
+2015-03-10 18:58:33.176 blank[3059:27754] {"0":0,"1":{"text":"Complete","$$hashKey":"object:103"}}
+2015-03-10 18:58:33.205 blank[3059:27754] DONE!
+2015-03-11 09:31:22.087 blank[3059:27754] showtask launched!
+2015-03-11 09:31:41.634 blank[3059:27754] [{"id":1,"name":"Office Kindness","description":"Ways to help around the office.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T01:31:38.443Z","updated_at":"2015-03-11T01:31:38.450Z"}]
+2015-03-11 09:32:37.667 blank[3059:27754] showtask launched!
+2015-03-11 09:49:33.545 blank[3773:46497] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/0D9016E1-BB3A-4C5B-9D44-2F9196B1F12D/Library/Cookies/Cookies.binarycookies
+2015-03-11 09:49:33.747 blank[3773:46497] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 09:49:33.747 blank[3773:46497] Multi-tasking -> Device: YES, App: YES
+2015-03-11 09:49:33.752 blank[3773:46497] Unlimited access to network resources
+2015-03-11 09:49:33.973 blank[3773:46497] [CDVTimer][keyboard] 0.557005ms
+2015-03-11 09:49:33.973 blank[3773:46497] [CDVTimer][TotalPluginStartup] 0.868976ms
+2015-03-11 09:49:34.194 blank[3773:46497] Resetting plugins due to page load.
+2015-03-11 09:49:34.791 blank[3773:46497] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 09:49:35.331 blank[3773:46497] subscriptionsResolver launched!!! 
+2015-03-11 09:49:35.511 blank[3773:46497] slideBoxController!
+2015-03-11 09:49:35.511 blank[3773:46497] activeTaskController initiated
+2015-03-11 09:49:45.798 blank[3773:46497] available resolver initialized!
+2015-03-11 09:49:46.591 blank[3773:46497] subscriptionsController!
+2015-03-11 09:49:49.699 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"}]
+2015-03-11 09:49:49.700 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"}]
+2015-03-11 09:49:49.700 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"},{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"}]
+2015-03-11 09:49:53.366 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"}]
+2015-03-11 09:49:53.366 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"}]
+2015-03-11 09:49:53.366 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"},{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"}]
+2015-03-11 09:49:53.367 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"},{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"},{"id":1,"name":"Office Kindness","description":"Ways to help around the office.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.955Z","updated_at":"2015-03-11T16:48:55.961Z"}]
+2015-03-11 09:51:00.532 blank[3773:46497] {"0":0,"1":{"text":"Complete","$$hashKey":"object:102"}}
+2015-03-11 09:51:00.570 blank[3773:46497] DONE!
+2015-03-11 09:51:04.439 blank[3773:46497] completed initiated
+2015-03-11 09:51:38.159 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"}]
+2015-03-11 09:51:38.260 blank[3773:46497] THREAD WARNING: ['Console'] took '100.358154' ms. Plugin should use a background thread.
+2015-03-11 09:51:38.261 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"}]
+2015-03-11 09:51:38.261 blank[3773:46497] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"},{"id":1,"name":"Office Kindness","description":"Ways to help around the office.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.955Z","updated_at":"2015-03-11T16:48:55.961Z"}]
+2015-03-11 09:51:59.406 blank[3773:46497] {"0":0,"1":{"text":"Complete","$$hashKey":"object:174"}}
+2015-03-11 09:51:59.528 blank[3773:46497] DONE!
+2015-03-11 09:52:03.410 blank[3773:46497] {"0":0,"1":{"text":"Complete","$$hashKey":"object:196"}}
+2015-03-11 09:52:03.432 blank[3773:46497] DONE!
+2015-03-11 09:52:27.363 blank[3773:46497] [{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"}]
+2015-03-11 09:52:27.363 blank[3773:46497] [{"id":2,"name":"Family Kindness","description":"Show the people you live with some courtesy.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.972Z","updated_at":"2015-03-11T16:48:55.987Z"},{"id":1,"name":"Office Kindness","description":"Ways to help around the office.","cost_estimate":null,"score":0,"public":true,"user_id":1,"created_at":"2015-03-11T16:48:55.955Z","updated_at":"2015-03-11T16:48:55.961Z"}]
+2015-03-11 09:52:51.007 blank[3773:46497] [{"id":11,"name":"Appreciate their efforts","description":"Find someone you depend on and tell them you appreciate their efforts","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.137Z","updated_at":"2015-03-11T16:48:56.137Z"},{"id":12,"name":"helping hands","description":"Ask someone you interact with if they need help.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.145Z","updated_at":"2015-03-11T16:48:56.145Z"},{"id":13,"name":"Stack helper","description":"Go to a section of stack exchange where you are knowledgeable, spend 5 or 10 minutes trying to find a question you can answer","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.150Z","updated_at":"2015-03-11T16:48:56.150Z"},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.154Z","updated_at":"2015-03-11T16:48:56.154Z"},{"id":15,"name":"Helpful Documentation","description":"Go to a repo on github and spend 10 minutes trying to help it's documentation","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.159Z","updated_at":"2015-03-11T16:48:56.159Z"},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.165Z","updated_at":"2015-03-11T16:48:56.165Z"},{"id":17,"name":"Helpful tests","description":"Go to a repo written in a language you're familiar with and spend 15 minutes trying to write some tests for it","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.171Z","updated_at":"2015-03-11T16:48:56.171Z"},{"id":18,"name":"Mini Investor","description":"Go start an account at KIVA.org or some other micro-loan platform and put 10 dollars in your balance.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.176Z","updated_at":"2015-03-11T16:48:56.176Z"}]
+2015-03-11 09:52:51.008 blank[3773:46497] showtask launched!
+2015-03-11 09:53:05.208 blank[3773:46497] [{"id":11,"name":"Appreciate their efforts","description":"Find someone you depend on and tell them you appreciate their efforts","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.137Z","updated_at":"2015-03-11T16:48:56.137Z"},{"id":12,"name":"helping hands","description":"Ask someone you interact with if they need help.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.145Z","updated_at":"2015-03-11T16:48:56.145Z"},{"id":13,"name":"Stack helper","description":"Go to a section of stack exchange where you are knowledgeable, spend 5 or 10 minutes trying to find a question you can answer","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.150Z","updated_at":"2015-03-11T16:48:56.150Z"},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.154Z","updated_at":"2015-03-11T16:48:56.154Z"},{"id":15,"name":"Helpful Documentation","description":"Go to a repo on github and spend 10 minutes trying to help it's documentation","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.159Z","updated_at":"2015-03-11T16:48:56.159Z"},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.165Z","updated_at":"2015-03-11T16:48:56.165Z"},{"id":17,"name":"Helpful tests","description":"Go to a repo written in a language you're familiar with and spend 15 minutes trying to write some tests for it","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.171Z","updated_at":"2015-03-11T16:48:56.171Z"},{"id":18,"name":"Mini Investor","description":"Go start an account at KIVA.org or some other micro-loan platform and put 10 dollars in your balance.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.176Z","updated_at":"2015-03-11T16:48:56.176Z"}]
+2015-03-11 09:53:05.209 blank[3773:46497] showtask launched!
+2015-03-11 09:53:15.640 blank[3773:46497] [{"id":11,"name":"Appreciate their efforts","description":"Find someone you depend on and tell them you appreciate their efforts","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.137Z","updated_at":"2015-03-11T16:48:56.137Z"},{"id":12,"name":"helping hands","description":"Ask someone you interact with if they need help.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.145Z","updated_at":"2015-03-11T16:48:56.145Z"},{"id":13,"name":"Stack helper","description":"Go to a section of stack exchange where you are knowledgeable, spend 5 or 10 minutes trying to find a question you can answer","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.150Z","updated_at":"2015-03-11T16:48:56.150Z"},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.154Z","updated_at":"2015-03-11T16:48:56.154Z"},{"id":15,"name":"Helpful Documentation","description":"Go to a repo on github and spend 10 minutes trying to help it's documentation","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.159Z","updated_at":"2015-03-11T16:48:56.159Z"},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.165Z","updated_at":"2015-03-11T16:48:56.165Z"},{"id":17,"name":"Helpful tests","description":"Go to a repo written in a language you're familiar with and spend 15 minutes trying to write some tests for it","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.171Z","updated_at":"2015-03-11T16:48:56.171Z"},{"id":18,"name":"Mini Investor","description":"Go start an account at KIVA.org or some other micro-loan platform and put 10 dollars in your balance.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.176Z","updated_at":"2015-03-11T16:48:56.176Z"}]
+2015-03-11 09:53:15.640 blank[3773:46497] showtask launched!
+2015-03-11 09:53:35.752 blank[3773:46497] [{"id":11,"name":"Appreciate their efforts","description":"Find someone you depend on and tell them you appreciate their efforts","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.137Z","updated_at":"2015-03-11T16:48:56.137Z"},{"id":12,"name":"helping hands","description":"Ask someone you interact with if they need help.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.145Z","updated_at":"2015-03-11T16:48:56.145Z"},{"id":13,"name":"Stack helper","description":"Go to a section of stack exchange where you are knowledgeable, spend 5 or 10 minutes trying to find a question you can answer","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.150Z","updated_at":"2015-03-11T16:48:56.150Z"},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.154Z","updated_at":"2015-03-11T16:48:56.154Z"},{"id":15,"name":"Helpful Documentation","description":"Go to a repo on github and spend 10 minutes trying to help it's documentation","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.159Z","updated_at":"2015-03-11T16:48:56.159Z"},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.165Z","updated_at":"2015-03-11T16:48:56.165Z"},{"id":17,"name":"Helpful tests","description":"Go to a repo written in a language you're familiar with and spend 15 minutes trying to write some tests for it","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.171Z","updated_at":"2015-03-11T16:48:56.171Z"},{"id":18,"name":"Mini Investor","description":"Go start an account at KIVA.org or some other micro-loan platform and put 10 dollars in your balance.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.176Z","updated_at":"2015-03-11T16:48:56.176Z"}]
+2015-03-11 09:53:35.752 blank[3773:46497] showtask launched!
+2015-03-11 09:54:00.740 blank[3773:46497] [{"id":11,"name":"Appreciate their efforts","description":"Find someone you depend on and tell them you appreciate their efforts","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.137Z","updated_at":"2015-03-11T16:48:56.137Z"},{"id":12,"name":"helping hands","description":"Ask someone you interact with if they need help.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.145Z","updated_at":"2015-03-11T16:48:56.145Z"},{"id":13,"name":"Stack helper","description":"Go to a section of stack exchange where you are knowledgeable, spend 5 or 10 minutes trying to find a question you can answer","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.150Z","updated_at":"2015-03-11T16:48:56.150Z"},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.154Z","updated_at":"2015-03-11T16:48:56.154Z"},{"id":15,"name":"Helpful Documentation","description":"Go to a repo on github and spend 10 minutes trying to help it's documentation","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.159Z","updated_at":"2015-03-11T16:48:56.159Z"},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.165Z","updated_at":"2015-03-11T16:48:56.165Z"},{"id":17,"name":"Helpful tests","description":"Go to a repo written in a language you're familiar with and spend 15 minutes trying to write some tests for it","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.171Z","updated_at":"2015-03-11T16:48:56.171Z"},{"id":18,"name":"Mini Investor","description":"Go start an account at KIVA.org or some other micro-loan platform and put 10 dollars in your balance.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.176Z","updated_at":"2015-03-11T16:48:56.176Z"}]
+2015-03-11 09:54:00.740 blank[3773:46497] showtask launched!
+2015-03-11 10:39:15.199 blank[4224:52918] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/19D67C72-5D1B-4C1D-877B-978AECB32D48/Library/Cookies/Cookies.binarycookies
+2015-03-11 10:39:15.335 blank[4224:52918] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 10:39:15.336 blank[4224:52918] Multi-tasking -> Device: YES, App: YES
+2015-03-11 10:39:15.354 blank[4224:52918] Unlimited access to network resources
+2015-03-11 10:39:15.485 blank[4224:52918] [CDVTimer][keyboard] 0.110984ms
+2015-03-11 10:39:15.486 blank[4224:52918] [CDVTimer][TotalPluginStartup] 0.402987ms
+2015-03-11 10:39:15.892 blank[4224:52918] Resetting plugins due to page load.
+2015-03-11 10:39:16.381 blank[4224:52918] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 10:39:26.879 blank[4224:52918] THREAD WARNING: ['Keyboard'] took '11.991211' ms. Plugin should use a background thread.
+2015-03-11 10:45:56.239 blank[4224:52918] Resetting plugins due to page load.
+2015-03-11 10:45:56.956 blank[4224:52918] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 10:47:09.011 blank[4564:57213] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/B0B9C396-80F9-4659-8337-52F57BA3642B/Library/Cookies/Cookies.binarycookies
+2015-03-11 10:47:09.269 blank[4564:57213] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 10:47:09.269 blank[4564:57213] Multi-tasking -> Device: YES, App: YES
+2015-03-11 10:47:09.275 blank[4564:57213] Unlimited access to network resources
+2015-03-11 10:47:09.463 blank[4564:57213] [CDVTimer][keyboard] 0.147998ms
+2015-03-11 10:47:09.464 blank[4564:57213] [CDVTimer][TotalPluginStartup] 1.969993ms
+2015-03-11 10:47:09.920 blank[4564:57213] Resetting plugins due to page load.
+2015-03-11 10:47:10.473 blank[4564:57213] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 10:47:10.532 blank[4564:57213] subscriptionsResolver launched!!! 
+2015-03-11 10:51:52.189 blank[4564:57213] Resetting plugins due to page load.
+2015-03-11 10:51:52.488 blank[4564:57213] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 10:51:52.524 blank[4564:57213] subscriptionsResolver launched!!! 
+2015-03-11 10:56:21.557 blank[4564:57213] Resetting plugins due to page load.
+2015-03-11 10:56:21.801 blank[4564:57213] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 11:11:41.155 blank[5392:66606] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/959F057F-DFED-4BA5-82D9-FDFCF6DC112F/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:11:41.245 blank[5392:66606] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:11:41.246 blank[5392:66606] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:11:41.248 blank[5392:66606] Unlimited access to network resources
+2015-03-11 11:11:41.331 blank[5392:66606] [CDVTimer][keyboard] 0.072002ms
+2015-03-11 11:11:41.331 blank[5392:66606] [CDVTimer][TotalPluginStartup] 0.275016ms
+2015-03-11 11:11:41.452 blank[5392:66606] Resetting plugins due to page load.
+2015-03-11 11:11:41.724 blank[5392:66606] Finished load of: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Bundle/Application/3F9AEBA3-AC38-49E8-AF5D-A731C98CE488/blank.app/www/index.html#/
+2015-03-11 11:11:41.864 blank[5392:66606] subscriptionsResolver launched!!! 
+2015-03-11 11:11:52.243 blank[5544:67008] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/221E6FD2-25F7-4EBC-8EAC-668C0221EFF1/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:11:52.340 blank[5544:67008] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:11:52.340 blank[5544:67008] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:11:52.344 blank[5544:67008] Unlimited access to network resources
+2015-03-11 11:11:52.439 blank[5544:67008] [CDVTimer][keyboard] 0.091970ms
+2015-03-11 11:11:52.439 blank[5544:67008] [CDVTimer][TotalPluginStartup] 0.307024ms
+2015-03-11 11:11:52.500 blank[5544:67008] Resetting plugins due to page load.
+2015-03-11 11:11:52.706 blank[5544:67008] Finished load of: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Bundle/Application/A88DF86A-EAF0-4596-A154-5E13870FCCD1/blank.app/www/index.html#/
+2015-03-11 11:12:02.839 blank[5700:67441] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/EB3F41D4-BB97-4D7A-A9CC-5C4FF2ED7974/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:12:02.933 blank[5700:67441] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:12:02.933 blank[5700:67441] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:12:02.937 blank[5700:67441] Unlimited access to network resources
+2015-03-11 11:12:03.056 blank[5700:67441] [CDVTimer][keyboard] 0.082970ms
+2015-03-11 11:12:03.056 blank[5700:67441] [CDVTimer][TotalPluginStartup] 0.298977ms
+2015-03-11 11:12:03.145 blank[5700:67441] Resetting plugins due to page load.
+2015-03-11 11:12:03.622 blank[5700:67441] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 11:12:34.658 blank[5867:68182] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/09478F9F-1A55-406A-B3D7-2AE7164C4F53/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:12:34.777 blank[5867:68182] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:12:34.778 blank[5867:68182] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:12:34.782 blank[5867:68182] Unlimited access to network resources
+2015-03-11 11:12:34.898 blank[5867:68182] [CDVTimer][keyboard] 0.072002ms
+2015-03-11 11:12:34.898 blank[5867:68182] [CDVTimer][TotalPluginStartup] 0.289977ms
+2015-03-11 11:12:34.981 blank[5867:68182] Resetting plugins due to page load.
+2015-03-11 11:12:35.651 blank[5867:68182] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 11:31:25.178 blank[5867:68182] submitting..
+2015-03-11 11:31:25.260 blank[5867:68182] Authentication failed!
+2015-03-11 11:50:31.700 blank[6784:83080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/678DF9EF-E51E-48EA-B165-D005FA683F08/Library/Cookies/Cookies.binarycookies
+2015-03-11 11:50:31.865 blank[6784:83080] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 11:50:31.867 blank[6784:83080] Multi-tasking -> Device: YES, App: YES
+2015-03-11 11:50:31.870 blank[6784:83080] Unlimited access to network resources
+2015-03-11 11:50:31.983 blank[6784:83080] [CDVTimer][keyboard] 0.066996ms
+2015-03-11 11:50:32.061 blank[6784:83080] [CDVTimer][splashscreen] 77.423990ms
+2015-03-11 11:50:32.061 blank[6784:83080] [CDVTimer][TotalPluginStartup] 77.974021ms
+2015-03-11 11:50:32.226 blank[6784:83080] Resetting plugins due to page load.
+2015-03-11 11:50:32.682 blank[6784:83080] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 11:51:25.739 blank[6784:83080] submitting..
+2015-03-11 11:51:25.903 blank[6784:83080] activeTaskResolver!
+2015-03-11 11:51:26.016 blank[6784:83080] slideBoxController!
+2015-03-11 11:51:26.016 blank[6784:83080] activeTaskController initiated
+2015-03-11 11:51:28.212 blank[6784:83080] completed initiated
+2015-03-11 11:51:28.589 blank[6784:83080] available resolver initialized!
+2015-03-11 11:51:29.965 blank[6784:83080] subscriptionsController!
+2015-03-11 15:06:05.003 blank[9419:133536] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/2817633F-D7F2-449A-B8B8-293D63929188/Library/Cookies/Cookies.binarycookies
+2015-03-11 15:06:05.283 blank[9419:133536] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 15:06:05.283 blank[9419:133536] Multi-tasking -> Device: YES, App: YES
+2015-03-11 15:06:05.296 blank[9419:133536] Unlimited access to network resources
+2015-03-11 15:06:05.652 blank[9419:133536] [CDVTimer][keyboard] 0.079036ms
+2015-03-11 15:06:05.803 blank[9419:133536] [CDVTimer][splashscreen] 150.462985ms
+2015-03-11 15:06:05.803 blank[9419:133536] [CDVTimer][TotalPluginStartup] 150.941014ms
+2015-03-11 15:06:05.963 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:06:06.655 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:06:30.453 blank[9419:133536] {"isIonicTap":true}
+2015-03-11 15:06:30.455 blank[9419:133536] submitting..
+2015-03-11 15:06:37.557 blank[9419:133536] tabController
+2015-03-11 15:06:37.557 blank[9419:133536] available resolver initialized!
+2015-03-11 15:06:49.477 blank[9419:133536] back button clicked
+2015-03-11 15:06:49.477 blank[9419:133536] localstoragecheck 
+2015-03-11 15:06:52.191 blank[9419:133536] back button clicked
+2015-03-11 15:06:52.191 blank[9419:133536] localstoragecheck 
+2015-03-11 15:07:09.894 blank[9419:134244] Communications error: <OS_xpc_error: <error: 0x2d435f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d4383c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-03-11 15:13:06.740 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:13:07.282 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:13:09.858 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:13:10.322 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:13:45.955 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:13:46.246 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:14:04.770 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:14:05.173 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:14:55.877 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:14:56.018 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:15:22.980 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:15:23.251 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:16:24.985 blank[9419:133536] Resetting plugins due to page load.
+2015-03-11 15:16:25.361 blank[9419:133536] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 15:20:02.767 blank[9839:140688] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/72CE23E6-3DCF-4CE6-AD1A-46B6975E6D2C/Library/Cookies/Cookies.binarycookies
+2015-03-11 15:20:03.092 blank[9839:140688] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 15:20:03.093 blank[9839:140688] Multi-tasking -> Device: YES, App: YES
+2015-03-11 15:20:03.108 blank[9839:140688] Unlimited access to network resources
+2015-03-11 15:20:03.460 blank[9839:140688] [CDVTimer][keyboard] 0.102043ms
+2015-03-11 15:20:03.597 blank[9839:140688] [CDVTimer][splashscreen] 135.944009ms
+2015-03-11 15:20:03.597 blank[9839:140688] [CDVTimer][TotalPluginStartup] 136.879981ms
+2015-03-11 15:20:03.748 blank[9839:140688] Resetting plugins due to page load.
+2015-03-11 15:20:04.227 blank[9839:140688] Finished load of: http://192.168.1.208:8100/
+2015-03-11 16:52:00.510 blank[11440:166696] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/9974A094-4C56-48D8-9A9A-D6E286B9C7B2/data/Containers/Data/Application/A497B4E3-EFA0-4D03-85CB-5A8DAAC5ACD7/Library/Cookies/Cookies.binarycookies
+2015-03-11 16:52:00.911 blank[11440:166696] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 16:52:00.913 blank[11440:166696] Multi-tasking -> Device: YES, App: YES
+2015-03-11 16:52:00.934 blank[11440:166696] Unlimited access to network resources
+2015-03-11 16:52:01.479 blank[11440:166696] [CDVTimer][keyboard] 0.465989ms
+2015-03-11 16:52:01.655 blank[11440:166696] [CDVTimer][splashscreen] 175.422013ms
+2015-03-11 16:52:01.665 blank[11440:166696] [CDVTimer][statusbar] 9.951949ms
+2015-03-11 16:52:01.665 blank[11440:166696] [CDVTimer][TotalPluginStartup] 186.467052ms
+2015-03-11 16:52:01.916 blank[11440:166696] Resetting plugins due to page load.
+2015-03-11 16:52:03.029 blank[11440:166696] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 16:53:24.250 blank[11686:168321] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/89A3AF67-4265-429F-A651-9FE2BEC716F1/Library/Cookies/Cookies.binarycookies
+2015-03-11 16:53:24.448 blank[11686:168321] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 16:53:24.449 blank[11686:168321] Multi-tasking -> Device: YES, App: YES
+2015-03-11 16:53:24.466 blank[11686:168321] Unlimited access to network resources
+2015-03-11 16:53:24.891 blank[11686:168321] [CDVTimer][keyboard] 0.124037ms
+2015-03-11 16:53:25.031 blank[11686:168321] [CDVTimer][splashscreen] 139.401019ms
+2015-03-11 16:53:25.038 blank[11686:168321] [CDVTimer][statusbar] 6.829977ms
+2015-03-11 16:53:25.038 blank[11686:168321] [CDVTimer][TotalPluginStartup] 146.999002ms
+2015-03-11 16:53:25.497 blank[11686:168321] Resetting plugins due to page load.
+2015-03-11 16:53:26.349 blank[11686:168321] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 16:53:41.548 blank[11686:168321] {"isIonicTap":true}
+2015-03-11 16:53:41.549 blank[11686:168321] submitting..
+2015-03-11 16:53:41.816 blank[11686:168321] succesfullAuth!
+2015-03-11 16:53:47.385 blank[11686:168321] tabController
+2015-03-11 16:53:47.387 blank[11686:168321] available resolver initialized!
+2015-03-11 16:53:48.794 blank[11686:168321] back button clicked
+2015-03-11 16:53:48.794 blank[11686:168321] localstoragecheck 
+2015-03-11 16:53:49.986 blank[11686:168321] tabController
+2015-03-11 16:53:52.616 blank[11686:168321] back button clicked
+2015-03-11 16:53:52.616 blank[11686:168321] localstoragecheck 
+2015-03-11 16:53:54.730 blank[11686:168321] back button clicked
+2015-03-11 16:53:54.730 blank[11686:168321] localstoragecheck 
+2015-03-11 16:53:58.809 blank[11686:168321] tabController
+2015-03-11 16:54:18.131 blank[11686:168321] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"}]
+2015-03-11 16:54:18.132 blank[11686:168321] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"},{"id":4,"name":"Big Ol' list of Kindess","description":"Lots of things to do to help others.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:55.993Z","updated_at":"2015-03-11T16:48:55.993Z"}]
+2015-03-11 16:54:20.623 blank[11686:168321] subscriptionsController!
+2015-03-11 16:54:21.648 blank[11686:168321] activeTaskResolver!
+2015-03-11 16:54:21.682 blank[11686:168321] activeTaskController initiated
+2015-03-11 16:54:31.740 blank[11686:168321] {"0":0,"1":{"text":"Complete","$$hashKey":"object:152"}}
+2015-03-11 16:54:31.794 blank[11686:168321] DONE!
+2015-03-11 16:54:33.932 blank[11686:168321] {"0":0,"1":{"text":"Complete","$$hashKey":"object:164"}}
+2015-03-11 16:54:33.966 blank[11686:168321] DONE!
+2015-03-11 16:54:35.991 blank[11686:168321] {"0":0,"1":{"text":"Complete","$$hashKey":"object:174"}}
+2015-03-11 16:54:36.054 blank[11686:168321] DONE!
+2015-03-11 16:54:38.065 blank[11686:168321] {"0":0,"1":{"text":"Complete","$$hashKey":"object:182"}}
+2015-03-11 16:54:38.088 blank[11686:168321] DONE!
+2015-03-11 16:54:39.788 blank[11686:168321] completed initiated
+2015-03-11 16:54:41.010 blank[11686:168321] back button clicked
+2015-03-11 16:54:41.010 blank[11686:168321] localstoragecheck 
+2015-03-11 16:54:43.251 blank[11686:168321] back button clicked
+2015-03-11 16:54:43.253 blank[11686:168321] localstoragecheck 
+2015-03-11 16:55:06.034 blank[11686:168321] tabController
+2015-03-11 16:55:28.786 blank[11686:168321] subscriptionsController!
+2015-03-11 16:55:31.507 blank[11686:168321] [{"id":22,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.236Z","updated_at":"2015-03-11T16:48:56.236Z"},{"id":23,"name":"buy some snacks","description":"Go to the store and get some snacks for your coworkers","cost_estimate":4,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.242Z","updated_at":"2015-03-11T16:48:56.242Z"},{"id":24,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.249Z","updated_at":"2015-03-11T16:48:56.249Z"}]
+2015-03-11 16:55:31.507 blank[11686:168321] showtask launched!
+2015-03-11 16:55:37.465 blank[11686:168321] showtask launched!
+2015-03-11 16:55:42.452 blank[11686:168321] showtask launched!
+2015-03-11 16:55:43.759 blank[11686:168321] back button clicked
+2015-03-11 16:55:43.761 blank[11686:168321] localstoragecheck 
+2015-03-11 16:55:45.898 blank[11686:168321] back button clicked
+2015-03-11 16:55:45.898 blank[11686:168321] localstoragecheck 
+2015-03-11 16:55:48.863 blank[11686:168321] tabController
+2015-03-11 16:55:56.832 blank[11686:168321] back button clicked
+2015-03-11 16:55:56.833 blank[11686:168321] localstoragecheck 
+2015-03-11 16:55:58.850 blank[11686:168321] back button clicked
+2015-03-11 16:55:58.851 blank[11686:168321] localstoragecheck 
+2015-03-11 16:56:11.071 blank[11686:168321] tabController
+2015-03-11 16:56:12.867 blank[11686:168321] subscriptionsController!
+2015-03-11 16:56:14.992 blank[11686:168321] activeTaskController initiated
+2015-03-11 16:56:15.682 blank[11686:168321] completed initiated
+2015-03-11 16:56:24.383 blank[11686:168321] back button clicked
+2015-03-11 16:56:24.383 blank[11686:168321] localstoragecheck 
+2015-03-11 16:56:26.005 blank[11686:168321] back button clicked
+2015-03-11 16:56:26.005 blank[11686:168321] localstoragecheck 
+2015-03-11 16:56:44.431 blank[11686:168321] tabController
+2015-03-11 16:56:47.454 blank[11686:168321] activeTaskController initiated
+2015-03-11 16:56:49.536 blank[11686:168321] completed initiated
+2015-03-11 16:56:52.287 blank[11686:168321] showtask launched!
+2015-03-11 16:56:56.448 blank[11686:168321] showtask launched!
+2015-03-11 16:57:01.274 blank[11686:168321] back button clicked
+2015-03-11 16:57:01.275 blank[11686:168321] localstoragecheck 
+2015-03-11 16:57:02.968 blank[11686:168321] back button clicked
+2015-03-11 16:57:02.969 blank[11686:168321] localstoragecheck 
+2015-03-11 16:57:39.627 blank[11686:168321] tabController
+2015-03-11 16:57:41.489 blank[11686:168321] completed initiated
+2015-03-11 16:57:42.926 blank[11686:168321] activeTaskController initiated
+2015-03-11 16:57:43.590 blank[11686:168321] subscriptionsController!
+2015-03-11 16:57:44.397 blank[11686:168321] back button clicked
+2015-03-11 16:57:44.397 blank[11686:168321] localstoragecheck 
+2015-03-11 16:57:49.485 blank[11686:168321] back button clicked
+2015-03-11 16:57:49.486 blank[11686:168321] localstoragecheck 
+2015-03-11 16:57:51.809 blank[11686:168321] tabController
+2015-03-11 17:01:32.736 blank[11686:168321] back button clicked
+2015-03-11 17:01:32.736 blank[11686:168321] localstoragecheck 
+2015-03-11 17:01:36.374 blank[11686:173552] Terminating since there is no system app.
+2015-03-11 17:01:59.023 blank[12000:174462] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/910A65DD-6220-47FC-8ECD-9E24C817FA27/Library/Cookies/Cookies.binarycookies
+2015-03-11 17:01:59.097 blank[12000:174462] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 17:01:59.097 blank[12000:174462] Multi-tasking -> Device: YES, App: YES
+2015-03-11 17:01:59.112 blank[12000:174462] Unlimited access to network resources
+2015-03-11 17:01:59.329 blank[12000:174462] [CDVTimer][keyboard] 0.086010ms
+2015-03-11 17:01:59.412 blank[12000:174462] [CDVTimer][splashscreen] 82.745969ms
+2015-03-11 17:01:59.416 blank[12000:174462] [CDVTimer][statusbar] 3.636003ms
+2015-03-11 17:01:59.416 blank[12000:174462] [CDVTimer][TotalPluginStartup] 87.030053ms
+2015-03-11 17:01:59.534 blank[12000:174462] Resetting plugins due to page load.
+2015-03-11 17:02:00.156 blank[12000:174462] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:03:01.415 blank[12000:174462] {"isIonicTap":true}
+2015-03-11 17:03:01.417 blank[12000:174462] submitting..
+2015-03-11 17:03:14.972 blank[12000:174462] {"isIonicTap":true}
+2015-03-11 17:03:14.972 blank[12000:174462] submitting..
+2015-03-11 17:03:15.095 blank[12000:174462] succesfullAuth!
+2015-03-11 17:03:21.311 blank[12000:174462] tabController
+2015-03-11 17:03:21.312 blank[12000:174462] available resolver initialized!
+2015-03-11 17:03:22.344 blank[12000:174462] back button clicked
+2015-03-11 17:03:22.344 blank[12000:174462] localstoragecheck 
+2015-03-11 17:03:23.541 blank[12000:174462] back button clicked
+2015-03-11 17:03:23.541 blank[12000:174462] localstoragecheck 
+2015-03-11 17:04:03.148 blank[12247:176091] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/82A93E72-02B8-40B6-961E-942E72516146/Library/Cookies/Cookies.binarycookies
+2015-03-11 17:04:03.226 blank[12247:176091] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 17:04:03.227 blank[12247:176091] Multi-tasking -> Device: YES, App: YES
+2015-03-11 17:04:03.230 blank[12247:176091] Unlimited access to network resources
+2015-03-11 17:04:03.385 blank[12247:176091] [CDVTimer][keyboard] 0.117004ms
+2015-03-11 17:04:03.420 blank[12247:176091] [CDVTimer][splashscreen] 34.990966ms
+2015-03-11 17:04:03.424 blank[12247:176091] [CDVTimer][statusbar] 3.814042ms
+2015-03-11 17:04:03.424 blank[12247:176091] [CDVTimer][TotalPluginStartup] 39.593995ms
+2015-03-11 17:04:03.581 blank[12247:176091] Resetting plugins due to page load.
+2015-03-11 17:04:04.487 blank[12247:176091] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:04:22.876 blank[12247:176091] {"isIonicTap":true}
+2015-03-11 17:04:22.877 blank[12247:176091] submitting..
+2015-03-11 17:04:23.143 blank[12247:176091] succesfullAuth!
+2015-03-11 17:04:38.329 blank[12247:176144] Terminating since there is no system app.
+2015-03-11 17:05:08.280 blank[12480:177338] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/7868E715-F71E-48F6-9813-873DDC3A3EA7/Library/Cookies/Cookies.binarycookies
+2015-03-11 17:05:08.349 blank[12480:177338] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 17:05:08.350 blank[12480:177338] Multi-tasking -> Device: YES, App: YES
+2015-03-11 17:05:08.351 blank[12480:177338] Unlimited access to network resources
+2015-03-11 17:05:08.445 blank[12480:177338] [CDVTimer][keyboard] 0.104010ms
+2015-03-11 17:05:08.465 blank[12480:177338] [CDVTimer][splashscreen] 19.881010ms
+2015-03-11 17:05:08.470 blank[12480:177338] [CDVTimer][statusbar] 4.234016ms
+2015-03-11 17:05:08.470 blank[12480:177338] [CDVTimer][TotalPluginStartup] 24.964035ms
+2015-03-11 17:05:08.631 blank[12480:177338] Resetting plugins due to page load.
+2015-03-11 17:05:09.255 blank[12480:177338] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:05:21.071 blank[12480:177338] {"isIonicTap":true}
+2015-03-11 17:05:21.071 blank[12480:177338] submitting..
+2015-03-11 17:05:21.319 blank[12480:177338] succesfullAuth!
+2015-03-11 17:05:29.497 blank[12480:177338] tabController
+2015-03-11 17:05:29.498 blank[12480:177338] available resolver initialized!
+2015-03-11 17:05:34.025 blank[12480:177338] activeTaskResolver!
+2015-03-11 17:05:34.082 blank[12480:177338] activeTaskController initiated
+2015-03-11 17:05:34.747 blank[12480:177338] subscriptionsController!
+2015-03-11 17:05:45.357 blank[12480:177338] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.181Z","updated_at":"2015-03-11T16:48:56.181Z"}]
+2015-03-11 17:05:49.012 blank[12480:177338] back button clicked
+2015-03-11 17:05:49.012 blank[12480:177338] localstoragecheck 
+2015-03-11 17:05:52.147 blank[12480:177338] back button clicked
+2015-03-11 17:05:52.148 blank[12480:177338] localstoragecheck 
+2015-03-11 17:05:53.927 blank[12480:177338] tabController
+2015-03-11 17:05:55.034 blank[12480:177338] back button clicked
+2015-03-11 17:05:55.034 blank[12480:177338] localstoragecheck 
+2015-03-11 17:05:56.305 blank[12480:177338] back button clicked
+2015-03-11 17:05:56.305 blank[12480:177338] localstoragecheck 
+2015-03-11 17:06:16.086 blank[12712:178530] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/5DB10664-DE91-41DC-AF45-361216933183/Library/Cookies/Cookies.binarycookies
+2015-03-11 17:06:16.163 blank[12712:178530] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 17:06:16.164 blank[12712:178530] Multi-tasking -> Device: YES, App: YES
+2015-03-11 17:06:16.166 blank[12712:178530] Unlimited access to network resources
+2015-03-11 17:06:16.321 blank[12712:178530] [CDVTimer][keyboard] 0.111043ms
+2015-03-11 17:06:16.345 blank[12712:178530] [CDVTimer][splashscreen] 23.647010ms
+2015-03-11 17:06:16.351 blank[12712:178530] [CDVTimer][statusbar] 5.626023ms
+2015-03-11 17:06:16.351 blank[12712:178530] [CDVTimer][TotalPluginStartup] 30.192971ms
+2015-03-11 17:06:16.510 blank[12712:178530] Resetting plugins due to page load.
+2015-03-11 17:06:17.589 blank[12712:178530] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:06:28.412 blank[12712:178530] {"isIonicTap":true}
+2015-03-11 17:06:28.412 blank[12712:178530] submitting..
+2015-03-11 17:06:29.140 blank[12712:178530] succesfullAuth!
+2015-03-11 17:06:45.678 blank[12712:178530] tabController
+2015-03-11 17:06:45.679 blank[12712:178530] available resolver initialized!
+2015-03-11 17:06:47.306 blank[12712:178530] subscriptionsController!
+2015-03-11 17:06:47.968 blank[12712:178530] activeTaskResolver!
+2015-03-11 17:06:47.995 blank[12712:178530] activeTaskController initiated
+2015-03-11 17:06:50.470 blank[12712:178530] completed initiated
+2015-03-11 17:06:51.839 blank[12712:178530] back button clicked
+2015-03-11 17:06:51.839 blank[12712:178530] localstoragecheck 
+2015-03-11 17:06:55.172 blank[12712:178530] back button clicked
+2015-03-11 17:06:55.173 blank[12712:178530] localstoragecheck 
+2015-03-11 17:08:26.151 blank[12712:178530] Resetting plugins due to page load.
+2015-03-11 17:08:27.499 blank[12712:178530] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:08:43.338 blank[12712:179577] Terminating since there is no system app.
+2015-03-11 17:09:09.271 blank[12970:180399] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/3A243BDC-8DA2-4FE7-86E4-62D94914D926/Library/Cookies/Cookies.binarycookies
+2015-03-11 17:09:09.366 blank[12970:180399] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 17:09:09.366 blank[12970:180399] Multi-tasking -> Device: YES, App: YES
+2015-03-11 17:09:09.370 blank[12970:180399] Unlimited access to network resources
+2015-03-11 17:09:09.494 blank[12970:180399] [CDVTimer][keyboard] 0.083983ms
+2015-03-11 17:09:09.549 blank[12970:180399] [CDVTimer][splashscreen] 54.700017ms
+2015-03-11 17:09:09.554 blank[12970:180399] [CDVTimer][statusbar] 5.080998ms
+2015-03-11 17:09:09.555 blank[12970:180399] [CDVTimer][TotalPluginStartup] 60.554981ms
+2015-03-11 17:09:09.759 blank[12970:180399] Resetting plugins due to page load.
+2015-03-11 17:09:10.433 blank[12970:180399] Finished load of: http://192.168.1.208:8100/#/
+2015-03-11 17:09:36.828 blank[12970:180399] {"isIonicTap":true}
+2015-03-11 17:09:36.830 blank[12970:180399] submitting..
+2015-03-11 17:09:37.408 blank[12970:180399] succesfullAuth!
+2015-03-11 17:09:51.094 blank[12970:180399] tabController
+2015-03-11 17:09:51.094 blank[12970:180399] available resolver initialized!
+2015-03-11 17:09:54.932 blank[12970:180399] showtask launched!
+2015-03-11 17:09:57.887 blank[12970:180399] subscriptionsController!
+2015-03-11 17:10:05.772 blank[12970:180399] [{"id":19,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.221Z","updated_at":"2015-03-11T16:48:56.221Z"},{"id":20,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.226Z","updated_at":"2015-03-11T16:48:56.226Z"},{"id":21,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.231Z","updated_at":"2015-03-11T16:48:56.231Z"}]
+2015-03-11 17:10:05.772 blank[12970:180399] showtask launched!
+2015-03-11 17:10:07.443 blank[12970:180399] activeTaskResolver!
+2015-03-11 17:10:07.473 blank[12970:180399] activeTaskController initiated
+2015-03-11 17:10:08.136 blank[12970:180399] completed initiated
+2015-03-11 17:10:11.211 blank[12970:180399] back button clicked
+2015-03-11 17:10:11.212 blank[12970:180399] localstoragecheck 
+2015-03-11 17:10:13.982 blank[12970:180399] localstoragecheck 
+2015-03-11 17:10:15.651 blank[12970:180399] tabController
+2015-03-11 17:10:17.351 blank[12970:180399] activeTaskController initiated
+2015-03-11 17:10:18.265 blank[12970:180399] subscriptionsController!
+2015-03-11 17:10:21.599 blank[12970:180399] [{"id":19,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.221Z","updated_at":"2015-03-11T16:48:56.221Z"},{"id":20,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.226Z","updated_at":"2015-03-11T16:48:56.226Z"},{"id":21,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.231Z","updated_at":"2015-03-11T16:48:56.231Z"}]
+2015-03-11 17:10:21.599 blank[12970:180399] showtask launched!
+2015-03-11 17:10:26.414 blank[12970:180399] back button clicked
+2015-03-11 17:10:26.414 blank[12970:180399] localstoragecheck 
+2015-03-11 17:10:27.934 blank[12970:180399] back button clicked
+2015-03-11 17:10:27.934 blank[12970:180399] localstoragecheck 
+2015-03-11 23:24:38.404 blank[13926:195782] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/F8D869CD-CD9C-4903-8A7B-2B6EAAA95FD4/Library/Cookies/Cookies.binarycookies
+2015-03-11 23:24:38.467 blank[13926:195782] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 23:24:38.467 blank[13926:195782] Multi-tasking -> Device: YES, App: YES
+2015-03-11 23:24:38.484 blank[13926:195782] Unlimited access to network resources
+2015-03-11 23:24:38.848 blank[13926:195782] [CDVTimer][keyboard] 0.072002ms
+2015-03-11 23:24:38.934 blank[13926:195782] [CDVTimer][splashscreen] 86.434960ms
+2015-03-11 23:24:38.938 blank[13926:195782] [CDVTimer][statusbar] 3.520966ms
+2015-03-11 23:24:38.938 blank[13926:195782] [CDVTimer][TotalPluginStartup] 90.566993ms
+2015-03-11 23:24:39.060 blank[13926:195782] Resetting plugins due to page load.
+2015-03-11 23:24:39.704 blank[13926:195782] Finished load of: http://10.0.0.9:8100/#/
+2015-03-11 23:25:00.125 blank[13926:195782] {"isIonicTap":true}
+2015-03-11 23:25:00.126 blank[13926:195782] submitting..
+2015-03-11 23:25:00.382 blank[13926:195782] succesfullAuth!
+2015-03-11 23:25:07.791 blank[13926:195782] tabController
+2015-03-11 23:25:07.792 blank[13926:195782] available resolver initialized!
+2015-03-11 23:25:11.057 blank[13926:195782] subscriptionsController!
+2015-03-11 23:25:15.921 blank[13926:195782] [{"id":20,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.226Z","updated_at":"2015-03-11T16:48:56.226Z"},{"id":21,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.231Z","updated_at":"2015-03-11T16:48:56.231Z"},{"id":19,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":12,"public":true,"user_id":null,"created_at":"2015-03-11T16:48:56.221Z","updated_at":"2015-03-12T06:23:30.420Z"}]
+2015-03-11 23:25:15.921 blank[13926:195782] showtask launched!
+2015-03-11 23:25:21.422 blank[13926:195782] activeTaskResolver!
+2015-03-11 23:25:21.456 blank[13926:195782] activeTaskController initiated
+2015-03-11 23:25:33.196 blank[13926:195782] back button clicked
+2015-03-11 23:25:33.196 blank[13926:195782] localstoragecheck 
+2015-03-11 23:25:36.060 blank[13926:195782] back button clicked
+2015-03-11 23:25:36.060 blank[13926:195782] localstoragecheck 
+2015-03-11 23:51:56.152 blank[14566:204833] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/BA905349-BF83-4A8B-8363-EF13ECB11F6B/Library/Cookies/Cookies.binarycookies
+2015-03-11 23:51:56.318 blank[14566:204833] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 23:51:56.318 blank[14566:204833] Multi-tasking -> Device: YES, App: YES
+2015-03-11 23:51:56.335 blank[14566:204833] Unlimited access to network resources
+2015-03-11 23:51:56.722 blank[14566:204833] [CDVTimer][keyboard] 0.073016ms
+2015-03-11 23:51:56.853 blank[14566:204833] [CDVTimer][splashscreen] 130.607009ms
+2015-03-11 23:51:56.859 blank[14566:204833] [CDVTimer][statusbar] 6.317019ms
+2015-03-11 23:51:56.859 blank[14566:204833] [CDVTimer][TotalPluginStartup] 137.551010ms
+2015-03-11 23:51:57.032 blank[14566:204833] Resetting plugins due to page load.
+2015-03-11 23:51:57.685 blank[14566:204833] Finished load of: http://10.0.0.9:8100/#/
+2015-03-11 23:52:07.796 blank[14566:204833] {"isIonicTap":true}
+2015-03-11 23:52:07.796 blank[14566:204833] submitting..
+2015-03-11 23:52:19.003 blank[14566:204833] {"isIonicTap":true}
+2015-03-11 23:52:19.003 blank[14566:204833] submitting..
+2015-03-11 23:52:27.861 blank[14566:204833] {"isIonicTap":true}
+2015-03-11 23:52:27.861 blank[14566:204833] submitting..
+2015-03-11 23:52:32.950 blank[14566:204833] {"isIonicTap":true}
+2015-03-11 23:52:32.950 blank[14566:204833] submitting..
+2015-03-11 23:52:33.728 blank[14566:204833] succesfullAuth!
+2015-03-11 23:52:49.087 blank[14566:204833] tabController
+2015-03-11 23:52:49.087 blank[14566:204833] available resolver initialized!
+2015-03-11 23:52:52.575 blank[14566:204833] completed initiated
+2015-03-11 23:52:53.979 blank[14566:204833] activeTaskResolver!
+2015-03-11 23:52:54.022 blank[14566:204833] activeTaskController initiated
+2015-03-11 23:52:55.341 blank[14566:204833] subscriptionsController!
+2015-03-11 23:53:01.407 blank[14566:204833] {"0":0,"1":{"text":"Complete","$$hashKey":"object:92"}}
+2015-03-11 23:53:01.438 blank[14566:204833] DONE!
+2015-03-11 23:53:07.740 blank[14566:204833] showtask launched!
+2015-03-11 23:53:14.592 blank[14566:204833] back button clicked
+2015-03-11 23:53:14.593 blank[14566:204833] localstoragecheck 
+2015-03-11 23:53:16.111 blank[14566:204833] back button clicked
+2015-03-11 23:53:16.111 blank[14566:204833] localstoragecheck 
+2015-03-11 23:53:53.777 blank[14566:205660] Terminating since there is no system app.
+2015-03-11 23:54:13.080 blank[14794:206364] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/FE12C6C7-65DB-4100-ACD3-947B7EBBF755/Library/Cookies/Cookies.binarycookies
+2015-03-11 23:54:13.151 blank[14794:206364] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-11 23:54:13.151 blank[14794:206364] Multi-tasking -> Device: YES, App: YES
+2015-03-11 23:54:13.153 blank[14794:206364] Unlimited access to network resources
+2015-03-11 23:54:13.290 blank[14794:206364] [CDVTimer][keyboard] 0.106990ms
+2015-03-11 23:54:13.339 blank[14794:206364] [CDVTimer][splashscreen] 49.006045ms
+2015-03-11 23:54:13.344 blank[14794:206364] [CDVTimer][statusbar] 4.526973ms
+2015-03-11 23:54:13.344 blank[14794:206364] [CDVTimer][TotalPluginStartup] 54.369032ms
+2015-03-11 23:54:13.503 blank[14794:206364] Resetting plugins due to page load.
+2015-03-11 23:54:14.165 blank[14794:206364] Finished load of: http://10.0.0.9:8100/#/
+2015-03-11 23:54:41.599 blank[14794:206364] {"isIonicTap":true}
+2015-03-11 23:54:41.600 blank[14794:206364] submitting..
+2015-03-11 23:54:41.850 blank[14794:206364] succesfullAuth!
+2015-03-11 23:54:53.414 blank[14794:206797] Terminating since there is no system app.
+2015-03-12 00:04:22.377 blank[15404:210836] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/E6175A63-F96A-408E-BD44-63648C2DB425/Library/Cookies/Cookies.binarycookies
+2015-03-12 00:04:22.484 blank[15404:210836] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 00:04:22.484 blank[15404:210836] Multi-tasking -> Device: YES, App: YES
+2015-03-12 00:04:22.499 blank[15404:210836] Unlimited access to network resources
+2015-03-12 00:04:22.840 blank[15404:210836] [CDVTimer][keyboard] 0.074029ms
+2015-03-12 00:04:22.907 blank[15404:210836] [CDVTimer][splashscreen] 66.209018ms
+2015-03-12 00:04:22.911 blank[15404:210836] [CDVTimer][statusbar] 3.822982ms
+2015-03-12 00:04:22.911 blank[15404:210836] [CDVTimer][TotalPluginStartup] 70.656002ms
+2015-03-12 00:04:23.002 blank[15404:210836] Resetting plugins due to page load.
+2015-03-12 00:04:26.178 blank[15404:210836] Finished load of: http://10.0.0.9:8100/#/
+2015-03-12 00:04:56.019 blank[15404:210836] {"isIonicTap":true}
+2015-03-12 00:04:56.020 blank[15404:210836] submitting..
+2015-03-12 00:04:56.306 blank[15404:210836] succesfullAuth!
+2015-03-12 00:07:42.758 blank[15404:210836] Resetting plugins due to page load.
+2015-03-12 00:07:43.887 blank[15404:210836] Finished load of: http://10.0.0.9:8100/#/
+2015-03-12 00:07:48.681 blank[15404:210836] Resetting plugins due to page load.
+2015-03-12 00:07:49.320 blank[15404:210836] Finished load of: http://10.0.0.9:8100/#/
+2015-03-12 00:09:37.080 blank[15404:210836] Resetting plugins due to page load.
+2015-03-12 00:09:37.741 blank[15404:210836] Finished load of: http://10.0.0.9:8100/#/
+2015-03-12 00:09:37.777 blank[15404:210836] THREAD WARNING: ['StatusBar'] took '19.463867' ms. Plugin should use a background thread.
+2015-03-12 00:09:38.400 blank[15404:210836] THREAD WARNING: ['Device'] took '15.998779' ms. Plugin should use a background thread.
+2015-03-12 00:09:49.756 blank[15404:210836] Resetting plugins due to page load.
+2015-03-12 00:09:50.477 blank[15404:210836] Finished load of: http://10.0.0.9:8100/#/
+2015-03-12 09:09:06.746 blank[15952:221652] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/DDDC7872-3D62-4367-B1C5-83E5098B7A5F/Library/Cookies/Cookies.binarycookies
+2015-03-12 09:09:06.971 blank[15952:221652] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 09:09:06.972 blank[15952:221652] Multi-tasking -> Device: YES, App: YES
+2015-03-12 09:09:06.993 blank[15952:221652] Unlimited access to network resources
+2015-03-12 09:09:07.558 blank[15952:221652] [CDVTimer][keyboard] 0.110984ms
+2015-03-12 09:09:07.731 blank[15952:221652] [CDVTimer][splashscreen] 172.834039ms
+2015-03-12 09:09:07.739 blank[15952:221652] [CDVTimer][statusbar] 8.154035ms
+2015-03-12 09:09:07.739 blank[15952:221652] [CDVTimer][TotalPluginStartup] 181.852996ms
+2015-03-12 09:09:07.958 blank[15952:221652] Resetting plugins due to page load.
+2015-03-12 09:09:08.126 blank[15952:221652] Failed to load webpage with error: The network connection was lost.
+2015-03-12 09:11:58.667 blank[880:5225] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/0E512B68-8C69-47F7-B9C4-6FB1E2D99D88/Library/Cookies/Cookies.binarycookies
+2015-03-12 09:11:58.750 blank[880:5225] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 09:11:58.751 blank[880:5225] Multi-tasking -> Device: YES, App: YES
+2015-03-12 09:11:58.775 blank[880:5225] Unlimited access to network resources
+2015-03-12 09:11:59.228 blank[880:5225] [CDVTimer][keyboard] 0.123978ms
+2015-03-12 09:11:59.351 blank[880:5225] [CDVTimer][splashscreen] 122.889996ms
+2015-03-12 09:11:59.357 blank[880:5225] [CDVTimer][statusbar] 5.505979ms
+2015-03-12 09:11:59.357 blank[880:5225] [CDVTimer][TotalPluginStartup] 129.332960ms
+2015-03-12 09:11:59.534 blank[880:5225] Resetting plugins due to page load.
+2015-03-12 09:11:59.579 blank[880:5225] Failed to load webpage with error: Could not connect to the server.
+2015-03-12 09:12:01.676 blank[880:5402] Terminating since there is no system app.
+2015-03-12 09:12:25.215 blank[1213:6248] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/455B31A6-3122-4F8B-B956-558DD6F832C7/Library/Cookies/Cookies.binarycookies
+2015-03-12 09:12:25.289 blank[1213:6248] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 09:12:25.289 blank[1213:6248] Multi-tasking -> Device: YES, App: YES
+2015-03-12 09:12:25.294 blank[1213:6248] Unlimited access to network resources
+2015-03-12 09:12:25.446 blank[1213:6248] [CDVTimer][keyboard] 0.108004ms
+2015-03-12 09:12:25.485 blank[1213:6248] [CDVTimer][splashscreen] 38.716972ms
+2015-03-12 09:12:25.490 blank[1213:6248] [CDVTimer][statusbar] 4.736006ms
+2015-03-12 09:12:25.490 blank[1213:6248] [CDVTimer][TotalPluginStartup] 44.384003ms
+2015-03-12 09:12:25.659 blank[1213:6248] Resetting plugins due to page load.
+2015-03-12 09:12:26.927 blank[1213:6248] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 09:12:50.196 blank[1213:6248] {"isIonicTap":true}
+2015-03-12 09:12:50.196 blank[1213:6248] submitting..
+2015-03-12 09:12:50.721 blank[1213:6248] succesfullAuth!
+2015-03-12 09:12:51.031 blank[1213:6248] [{"id":21,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.149Z","updated_at":"2015-03-12T06:41:36.149Z","assignment_id":1,"past_vote":0},{"id":20,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.144Z","updated_at":"2015-03-12T06:41:36.144Z","assignment_id":2,"past_vote":0},{"id":4,"name":"little cleanings","description":"On your commute or walk, pick up a piece of litter and throw it away.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.032Z","updated_at":"2015-03-12T06:41:36.032Z","assignment_id":3,"past_vote":0},{"id":16,"name":"Efreedom forever","description":"Donate 10 dollars to the EFF","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.091Z","updated_at":"2015-03-12T06:41:36.091Z","assignment_id":4,"past_vote":0},{"id":14,"name":"Upvote party","description":"Go to a social media site you visit and upvote content you like for 5 minutes","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.082Z","updated_at":"2015-03-12T06:41:36.082Z","assignment_id":5,"past_vote":0},{"id":8,"name":"Contributor to the arts","description":"If there is an artist of some type that typically shares their work more than sell it, go donate to them.","cost_estimate":10,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.052Z","updated_at":"2015-03-12T06:41:36.052Z","assignment_id":6,"past_vote":0},{"id":10,"name":"Public surreality","description":"On public transit, make the loudest fart noise you can.","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T06:41:36.063Z","updated_at":"2015-03-12T06:41:36.063Z","assignment_id":7,"past_vote":0}]
+2015-03-12 09:12:51.031 blank[1213:6248] ***********
+2015-03-12 09:12:51.031 blank[1213:6248] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 09:13:02.128 blank[1213:6248] tabController
+2015-03-12 09:13:02.128 blank[1213:6248] available resolver initialized!
+2015-03-12 09:13:14.624 blank[1213:6248] showtask launched!
+2015-03-12 09:13:36.534 blank[1213:6248] subscriptionsController!
+2015-03-12 09:13:37.562 blank[1213:6248] completed initiated
+2015-03-12 09:13:43.709 blank[1213:6248] back button clicked
+2015-03-12 09:13:43.709 blank[1213:6248] localstoragecheck 
+2015-03-12 09:13:45.122 blank[1213:6248] back button clicked
+2015-03-12 09:13:45.122 blank[1213:6248] localstoragecheck 
+2015-03-12 09:18:04.087 blank[1213:6248] Resetting plugins due to page load.
+2015-03-12 09:18:04.539 blank[1213:6248] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 09:18:05.093 blank[1213:6248] Resetting plugins due to page load.
+2015-03-12 09:18:05.393 blank[1213:6248] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 09:20:24.288 blank[1213:6248] Resetting plugins due to page load.
+2015-03-12 09:20:24.457 blank[1213:6248] Failed to load webpage with error: Could not connect to the server.
+2015-03-12 09:21:00.793 blank[1213:6248] Resetting plugins due to page load.
+2015-03-12 09:21:00.853 blank[1213:6248] Failed to load webpage with error: Could not connect to the server.
+2015-03-12 09:21:39.699 blank[1213:12315] Communications error: <OS_xpc_error: <error: 0x2deb5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2deb83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-03-12 09:30:09.585 blank[1213:18686] Terminating since there is no system app.
+2015-03-12 13:13:26.373 blank[1363:28996] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/A2A506FD-B154-4A12-A8F8-485CACB3B503/Library/Cookies/Cookies.binarycookies
+2015-03-12 13:13:26.448 blank[1363:28996] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 13:13:26.449 blank[1363:28996] Multi-tasking -> Device: YES, App: YES
+2015-03-12 13:13:26.467 blank[1363:28996] Unlimited access to network resources
+2015-03-12 13:13:26.820 blank[1363:28996] [CDVTimer][keyboard] 0.115991ms
+2015-03-12 13:13:26.940 blank[1363:28996] [CDVTimer][splashscreen] 119.569004ms
+2015-03-12 13:13:26.944 blank[1363:28996] [CDVTimer][statusbar] 3.871024ms
+2015-03-12 13:13:26.944 blank[1363:28996] [CDVTimer][TotalPluginStartup] 124.175012ms
+2015-03-12 13:13:27.120 blank[1363:28996] Resetting plugins due to page load.
+2015-03-12 13:13:27.988 blank[1363:28996] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:13:59.751 blank[1363:28996] {"isIonicTap":true}
+2015-03-12 13:13:59.751 blank[1363:28996] submitting..
+2015-03-12 13:13:59.990 blank[1363:28996] succesfullAuth!
+2015-03-12 13:14:00.331 blank[1363:28996] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:22:16.763 blank[1567:32274] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/66E81D2C-EE81-462F-B753-305A138D0C5C/Library/Cookies/Cookies.binarycookies
+2015-03-12 13:22:16.879 blank[1567:32274] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 13:22:16.879 blank[1567:32274] Multi-tasking -> Device: YES, App: YES
+2015-03-12 13:22:16.881 blank[1567:32274] Unlimited access to network resources
+2015-03-12 13:22:17.012 blank[1567:32274] [CDVTimer][keyboard] 0.072002ms
+2015-03-12 13:22:17.053 blank[1567:32274] [CDVTimer][splashscreen] 40.651977ms
+2015-03-12 13:22:17.057 blank[1567:32274] [CDVTimer][statusbar] 4.367948ms
+2015-03-12 13:22:17.058 blank[1567:32274] [CDVTimer][TotalPluginStartup] 45.652986ms
+2015-03-12 13:22:17.302 blank[1567:32274] Resetting plugins due to page load.
+2015-03-12 13:22:17.931 blank[1567:32274] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:22:37.777 blank[1567:32274] {"isIonicTap":true}
+2015-03-12 13:22:37.777 blank[1567:32274] submitting..
+2015-03-12 13:22:38.594 blank[1567:32274] succesfullAuth!
+2015-03-12 13:22:38.883 blank[1567:32274] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:23:01.695 blank[1567:32274] tabController
+2015-03-12 13:23:01.695 blank[1567:32274] available resolver initialized!
+2015-03-12 13:23:05.775 blank[1567:32274] activeTaskResolver!
+2015-03-12 13:23:05.836 blank[1567:32274] activeTaskController initiated
+2015-03-12 13:23:10.448 blank[1567:32274] {"0":0,"1":{"text":"Complete","$$hashKey":"object:52"}}
+2015-03-12 13:23:12.848 blank[1567:32274] back button clicked
+2015-03-12 13:23:12.848 blank[1567:32274] localstoragecheck 
+2015-03-12 13:23:14.764 blank[1567:32274] back button clicked
+2015-03-12 13:23:14.765 blank[1567:32274] localstoragecheck 
+2015-03-12 13:23:21.316 blank[1567:32274] tabController
+2015-03-12 13:23:23.443 blank[1567:32274] completed initiated
+2015-03-12 13:23:32.771 blank[1567:32274] showtask launched!
+2015-03-12 13:23:43.429 blank[1567:32274] [{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T16:27:28.463Z","updated_at":"2015-03-12T16:27:28.463Z"}]
+2015-03-12 13:23:50.081 blank[1567:32274] activeTaskController initiated
+2015-03-12 13:23:57.666 blank[1567:32274] {"0":0,"1":{"text":"Complete","$$hashKey":"object:145"}}
+2015-03-12 13:24:05.408 blank[1567:32274] subscriptionsController!
+2015-03-12 13:24:08.377 blank[1567:32274] back button clicked
+2015-03-12 13:24:08.377 blank[1567:32274] localstoragecheck 
+2015-03-12 13:24:09.549 blank[1567:32274] back button clicked
+2015-03-12 13:24:09.550 blank[1567:32274] localstoragecheck 
+2015-03-12 13:26:27.908 blank[1755:33744] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/7A05DDA2-3898-41D2-8D61-5C353FF9B158/Library/Cookies/Cookies.binarycookies
+2015-03-12 13:26:27.997 blank[1755:33744] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 13:26:27.998 blank[1755:33744] Multi-tasking -> Device: YES, App: YES
+2015-03-12 13:26:28.000 blank[1755:33744] Unlimited access to network resources
+2015-03-12 13:26:28.136 blank[1755:33744] [CDVTimer][keyboard] 0.111043ms
+2015-03-12 13:26:28.173 blank[1755:33744] [CDVTimer][splashscreen] 36.945999ms
+2015-03-12 13:26:28.178 blank[1755:33744] [CDVTimer][statusbar] 4.877031ms
+2015-03-12 13:26:28.178 blank[1755:33744] [CDVTimer][TotalPluginStartup] 42.732954ms
+2015-03-12 13:26:28.367 blank[1755:33744] Resetting plugins due to page load.
+2015-03-12 13:26:28.990 blank[1755:33744] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:26:39.770 blank[1755:33744] {"isIonicTap":true}
+2015-03-12 13:26:39.770 blank[1755:33744] submitting..
+2015-03-12 13:26:40.030 blank[1755:33744] succesfullAuth!
+2015-03-12 13:26:40.357 blank[1755:33744] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:27:42.707 blank[1755:33744] tabController
+2015-03-12 13:27:42.707 blank[1755:33744] available resolver initialized!
+2015-03-12 13:27:47.169 blank[1755:33744] activeTaskResolver!
+2015-03-12 13:27:47.225 blank[1755:33744] activeTaskController initiated
+2015-03-12 13:27:51.014 blank[1755:33744] back button clicked
+2015-03-12 13:27:51.014 blank[1755:33744] localstoragecheck 
+2015-03-12 13:27:52.699 blank[1755:33744] back button clicked
+2015-03-12 13:27:52.699 blank[1755:33744] localstoragecheck 
+2015-03-12 13:27:58.764 blank[1755:33744] tabController
+2015-03-12 13:28:05.267 blank[1755:33744] activeTaskController initiated
+2015-03-12 13:28:13.616 blank[1755:33744] showtask launched!
+2015-03-12 13:31:09.189 blank[1755:33744] completed initiated
+2015-03-12 13:31:23.429 blank[1755:33744] subscriptionsController!
+2015-03-12 13:45:43.596 blank[1755:33744] back button clicked
+2015-03-12 13:45:43.597 blank[1755:33744] localstoragecheck 
+2015-03-12 13:45:46.390 blank[1755:39109] Terminating since there is no system app.
+2015-03-12 13:46:02.622 blank[2027:39958] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/CDFECBD2-40BA-4448-A7A5-B95D855CED57/Library/Cookies/Cookies.binarycookies
+2015-03-12 13:46:02.709 blank[2027:39958] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 13:46:02.709 blank[2027:39958] Multi-tasking -> Device: YES, App: YES
+2015-03-12 13:46:02.713 blank[2027:39958] Unlimited access to network resources
+2015-03-12 13:46:02.832 blank[2027:39958] [CDVTimer][keyboard] 0.074029ms
+2015-03-12 13:46:02.885 blank[2027:39958] [CDVTimer][splashscreen] 52.729964ms
+2015-03-12 13:46:02.890 blank[2027:39958] [CDVTimer][statusbar] 4.556000ms
+2015-03-12 13:46:02.890 blank[2027:39958] [CDVTimer][TotalPluginStartup] 58.009028ms
+2015-03-12 13:46:03.137 blank[2027:39958] Resetting plugins due to page load.
+2015-03-12 13:46:04.113 blank[2027:39958] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:46:14.737 blank[2027:39958] {"isIonicTap":true}
+2015-03-12 13:46:14.738 blank[2027:39958] submitting..
+2015-03-12 13:46:15.017 blank[2027:39958] succesfullAuth!
+2015-03-12 13:46:15.390 blank[2027:39958] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:46:23.528 blank[2027:39958] tabController
+2015-03-12 13:46:23.528 blank[2027:39958] available resolver initialized!
+2015-03-12 13:46:31.035 blank[2027:39958] completed initiated
+2015-03-12 13:46:31.438 blank[2027:39958] activeTaskResolver!
+2015-03-12 13:46:31.466 blank[2027:39958] activeTaskController initiated
+2015-03-12 13:46:41.508 blank[2027:39958] subscriptionsController!
+2015-03-12 13:46:52.357 blank[2027:39958] [{"id":19,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T16:27:28.591Z","updated_at":"2015-03-12T16:27:28.591Z"},{"id":20,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-12T16:27:28.608Z","updated_at":"2015-03-12T16:27:28.608Z"},{"id":21,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":-10,"public":true,"user_id":null,"created_at":"2015-03-12T16:27:28.626Z","updated_at":"2015-03-12T16:28:21.179Z"}]
+2015-03-12 13:46:52.357 blank[2027:39958] showtask launched!
+2015-03-12 13:47:25.525 blank[2027:39958] Resetting plugins due to page load.
+2015-03-12 13:47:25.906 blank[2027:39958] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:47:39.901 blank[2027:39958] {"isIonicTap":true}
+2015-03-12 13:47:39.901 blank[2027:39958] submitting..
+2015-03-12 13:47:40.017 blank[2027:39958] succesfullAuth!
+2015-03-12 13:47:40.359 blank[2027:39958] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:47:42.052 blank[2027:39958] tabController
+2015-03-12 13:47:42.052 blank[2027:39958] available resolver initialized!
+2015-03-12 13:47:44.477 blank[2027:39958] back button clicked
+2015-03-12 13:47:44.477 blank[2027:39958] localstoragecheck 
+2015-03-12 13:47:53.657 blank[2027:39958] back button clicked
+2015-03-12 13:47:53.657 blank[2027:39958] localstoragecheck 
+2015-03-12 13:47:59.517 blank[2027:39958] tabController
+2015-03-12 13:48:00.325 blank[2027:39958] back button clicked
+2015-03-12 13:48:00.326 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:02.123 blank[2027:39958] back button clicked
+2015-03-12 13:48:02.123 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:04.049 blank[2027:39958] tabController
+2015-03-12 13:48:05.245 blank[2027:39958] back button clicked
+2015-03-12 13:48:05.245 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:07.435 blank[2027:39958] back button clicked
+2015-03-12 13:48:07.435 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:14.537 blank[2027:39958] tabController
+2015-03-12 13:48:19.174 blank[2027:39958] back button clicked
+2015-03-12 13:48:19.174 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:28.534 blank[2027:39958] back button clicked
+2015-03-12 13:48:28.534 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:34.343 blank[2027:39958] tabController
+2015-03-12 13:48:39.723 blank[2027:39958] back button clicked
+2015-03-12 13:48:39.723 blank[2027:39958] localstoragecheck 
+2015-03-12 13:48:43.789 blank[2027:39958] back button clicked
+2015-03-12 13:48:43.790 blank[2027:39958] localstoragecheck 
+2015-03-12 13:49:14.744 blank[2027:39958] tabController
+2015-03-12 13:49:16.725 blank[2027:39958] back button clicked
+2015-03-12 13:49:16.725 blank[2027:39958] localstoragecheck 
+2015-03-12 13:49:24.615 blank[2027:39958] back button clicked
+2015-03-12 13:49:24.615 blank[2027:39958] localstoragecheck 
+2015-03-12 13:49:28.386 blank[2027:39958] tabController
+2015-03-12 13:49:32.752 blank[2027:39958] back button clicked
+2015-03-12 13:49:32.752 blank[2027:39958] localstoragecheck 
+2015-03-12 13:49:38.606 blank[2027:39958] back button clicked
+2015-03-12 13:49:38.607 blank[2027:39958] localstoragecheck 
+2015-03-12 13:49:41.883 blank[2027:39958] tabController
+2015-03-12 13:49:58.999 blank[2027:39958] back button clicked
+2015-03-12 13:49:58.999 blank[2027:39958] localstoragecheck 
+2015-03-12 13:50:00.765 blank[2027:39958] back button clicked
+2015-03-12 13:50:00.765 blank[2027:39958] localstoragecheck 
+2015-03-12 13:51:13.689 blank[2027:39958] Resetting plugins due to page load.
+2015-03-12 13:51:15.268 blank[2027:39958] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:52:33.149 blank[2027:39958] {"isIonicTap":true}
+2015-03-12 13:52:33.149 blank[2027:39958] submitting..
+2015-03-12 13:52:33.279 blank[2027:39958] succesfullAuth!
+2015-03-12 13:52:33.661 blank[2027:39958] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:52:35.163 blank[2027:39958] tabController
+2015-03-12 13:52:35.163 blank[2027:39958] available resolver initialized!
+2015-03-12 13:52:38.935 blank[2027:39958] back button clicked
+2015-03-12 13:52:38.936 blank[2027:39958] localstoragecheck 
+2015-03-12 13:52:40.598 blank[2027:39958] back button clicked
+2015-03-12 13:52:40.598 blank[2027:39958] localstoragecheck 
+2015-03-12 13:52:41.851 blank[2027:39958] tabController
+2015-03-12 13:53:36.573 blank[2027:39958] Resetting plugins due to page load.
+2015-03-12 13:53:43.928 blank[2027:39958] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 13:54:13.079 blank[2027:39958] {"isIonicTap":true}
+2015-03-12 13:54:13.079 blank[2027:39958] submitting..
+2015-03-12 13:54:13.225 blank[2027:39958] succesfullAuth!
+2015-03-12 13:54:13.626 blank[2027:39958] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 13:54:18.260 blank[2027:39958] tabController
+2015-03-12 13:54:18.260 blank[2027:39958] available resolver initialized!
+2015-03-12 13:54:37.837 blank[2027:39958] back button clicked
+2015-03-12 13:54:37.837 blank[2027:39958] localstoragecheck 
+2015-03-12 13:54:47.211 blank[2027:39958] back button clicked
+2015-03-12 13:54:47.212 blank[2027:39958] localstoragecheck 
+2015-03-12 13:54:49.020 blank[2027:39958] tabController
+2015-03-12 13:54:50.381 blank[2027:39958] back button clicked
+2015-03-12 13:54:50.382 blank[2027:39958] localstoragecheck 
+2015-03-12 13:54:52.575 blank[2027:39958] back button clicked
+2015-03-12 13:54:52.575 blank[2027:39958] localstoragecheck 
+2015-03-12 13:54:54.450 blank[2027:39958] tabController
+2015-03-12 13:56:40.174 blank[2027:39958] back button clicked
+2015-03-12 13:56:40.176 blank[2027:39958] localstoragecheck 
+2015-03-12 13:56:41.933 blank[2027:39958] back button clicked
+2015-03-12 13:56:41.933 blank[2027:39958] localstoragecheck 
+2015-03-12 13:56:42.914 blank[2027:39958] tabController
+2015-03-12 13:56:45.095 blank[2027:39958] back button clicked
+2015-03-12 13:56:45.095 blank[2027:39958] localstoragecheck 
+2015-03-12 14:51:17.101 blank[2027:39958] THREAD WARNING: ['Keyboard'] took '36.849854' ms. Plugin should use a background thread.
+2015-03-12 14:51:17.987 blank[2027:39958] back button clicked
+2015-03-12 14:51:17.988 blank[2027:39958] localstoragecheck 
+2015-03-12 14:52:20.221 blank[2027:39958] tabController
+2015-03-12 14:52:21.092 blank[2027:39958] back button clicked
+2015-03-12 14:52:21.093 blank[2027:39958] localstoragecheck 
+2015-03-12 14:52:22.877 blank[2027:39958] back button clicked
+2015-03-12 14:52:22.877 blank[2027:39958] localstoragecheck 
+2015-03-12 14:52:57.547 blank[2027:57387] Terminating since there is no system app.
+2015-03-12 16:49:00.676 blank[3352:91884] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/445DC9A3-ED4D-4C1D-962D-B89A4A00ABDA/Library/Cookies/Cookies.binarycookies
+2015-03-12 16:49:00.771 blank[3352:91884] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 16:49:00.772 blank[3352:91884] Multi-tasking -> Device: YES, App: YES
+2015-03-12 16:49:00.787 blank[3352:91884] Unlimited access to network resources
+2015-03-12 16:49:01.317 blank[3352:91884] [CDVTimer][keyboard] 0.117004ms
+2015-03-12 16:49:01.454 blank[3352:91884] [CDVTimer][splashscreen] 136.179030ms
+2015-03-12 16:49:01.458 blank[3352:91884] [CDVTimer][statusbar] 4.144013ms
+2015-03-12 16:49:01.458 blank[3352:91884] [CDVTimer][TotalPluginStartup] 141.134024ms
+2015-03-12 16:49:01.667 blank[3352:91884] Resetting plugins due to page load.
+2015-03-12 16:49:02.333 blank[3352:91884] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 16:49:02.571 blank[3352:91884] activeTaskResolverCopy!
+2015-03-12 16:49:02.571 blank[3352:91884] authcontroller activated
+2015-03-12 16:49:11.247 blank[3352:91884] {"isIonicTap":true}
+2015-03-12 16:49:11.247 blank[3352:91884] submitting..
+2015-03-12 16:49:11.511 blank[3352:91884] succesfullAuth!
+2015-03-12 16:49:11.761 blank[3352:91884] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 16:49:17.507 blank[3352:91884] tabController
+2015-03-12 16:49:17.508 blank[3352:91884] available resolver initialized!
+2015-03-12 16:49:22.544 blank[3352:91884] back button clicked
+2015-03-12 16:49:22.544 blank[3352:91884] localstoragecheck 
+2015-03-12 16:49:24.504 blank[3352:91884] back button clicked
+2015-03-12 16:49:24.504 blank[3352:91884] localstoragecheck 
+2015-03-12 16:57:31.163 blank[3352:91884] tabController
+2015-03-12 16:57:44.911 blank[3352:91884] showtask launched!
+2015-03-12 16:57:49.579 blank[3352:91884] activeTaskResolver!
+2015-03-12 16:57:49.624 blank[3352:91884] activeTaskController initiated
+2015-03-12 16:57:59.368 blank[3352:91884] {"0":0,"1":{"text":"Complete","$$hashKey":"object:103"}}
+2015-03-12 16:58:00.709 blank[3352:91884] back button clicked
+2015-03-12 16:58:00.709 blank[3352:91884] localstoragecheck 
+2015-03-12 16:58:02.756 blank[3352:91884] back button clicked
+2015-03-12 16:58:02.756 blank[3352:91884] localstoragecheck 
+2015-03-12 17:07:10.265 blank[3352:91884] tabController
+2015-03-12 17:07:10.301 blank[3352:91884] THREAD WARNING: ['Keyboard'] took '33.020996' ms. Plugin should use a background thread.
+2015-03-12 17:07:21.362 blank[3352:91884] [{"id":6,"name":"Bootcamp friendliness","description":"DBC is hard, being nice to each other can make it easier.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.256Z","updated_at":"2015-03-13T00:05:39.256Z"}]
+2015-03-12 17:07:21.362 blank[3352:91884] [{"id":6,"name":"Bootcamp friendliness","description":"DBC is hard, being nice to each other can make it easier.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.256Z","updated_at":"2015-03-13T00:05:39.256Z"},{"id":5,"name":"Good Netizen Behavior","description":"The internet can suck at times, a few ways to make it better.","cost_estimate":null,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.254Z","updated_at":"2015-03-13T00:05:39.254Z"}]
+2015-03-12 17:07:22.501 blank[3352:91884] activeTaskController initiated
+2015-03-12 17:07:28.708 blank[3352:91884] back button clicked
+2015-03-12 17:07:28.708 blank[3352:91884] localstoragecheck 
+2015-03-12 17:07:29.863 blank[3352:91884] back button clicked
+2015-03-12 17:07:29.863 blank[3352:91884] localstoragecheck 
+2015-03-12 17:07:31.598 blank[3352:91884] tabController
+2015-03-12 17:07:32.695 blank[3352:91884] back button clicked
+2015-03-12 17:07:32.696 blank[3352:91884] localstoragecheck 
+2015-03-12 17:07:45.931 blank[3352:91884] back button clicked
+2015-03-12 17:07:46.005 blank[3352:91884] THREAD WARNING: ['Console'] took '74.200928' ms. Plugin should use a background thread.
+2015-03-12 17:07:46.006 blank[3352:91884] localstoragecheck 
+2015-03-12 17:08:20.510 blank[3352:98286] Terminating since there is no system app.
+2015-03-12 17:49:11.668 blank[4213:108845] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/CAA79A44-23B7-463B-86B1-F4D77D0079F2/Library/Cookies/Cookies.binarycookies
+2015-03-12 17:49:11.803 blank[4213:108845] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 17:49:11.804 blank[4213:108845] Multi-tasking -> Device: YES, App: YES
+2015-03-12 17:49:11.821 blank[4213:108845] Unlimited access to network resources
+2015-03-12 17:49:12.381 blank[4213:108845] [CDVTimer][keyboard] 0.086010ms
+2015-03-12 17:49:12.545 blank[4213:108845] [CDVTimer][splashscreen] 164.047003ms
+2015-03-12 17:49:12.551 blank[4213:108845] [CDVTimer][statusbar] 5.668998ms
+2015-03-12 17:49:12.551 blank[4213:108845] [CDVTimer][TotalPluginStartup] 170.655012ms
+2015-03-12 17:49:12.906 blank[4213:108845] Resetting plugins due to page load.
+2015-03-12 17:49:14.626 blank[4213:108845] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 17:54:13.523 blank[4213:108845] {"isIonicTap":true}
+2015-03-12 17:54:13.523 blank[4213:108845] submitting..
+2015-03-12 17:54:14.041 blank[4213:108845] succesfullAuth!
+2015-03-12 17:54:14.110 blank[4213:108845] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 17:54:22.751 blank[4213:108845] tabController
+2015-03-12 17:54:22.752 blank[4213:108845] available resolver initialized!
+2015-03-12 17:54:37.083 blank[4213:108845] activeTaskResolver!
+2015-03-12 17:54:37.151 blank[4213:108845] activeTaskController initiated
+2015-03-12 17:54:50.591 blank[4213:108845] {"0":0,"1":{"text":"Complete","$$hashKey":"object:76"}}
+2015-03-12 17:54:55.591 blank[4213:108845] back button clicked
+2015-03-12 17:54:55.591 blank[4213:108845] localstoragecheck 
+2015-03-12 17:54:58.247 blank[4213:108845] back button clicked
+2015-03-12 17:54:58.247 blank[4213:108845] localstoragecheck 
+2015-03-12 18:54:02.245 blank[4213:115438] Terminating since there is no system app.
+2015-03-12 18:56:19.838 blank[4529:116900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/A1A270CB-EBC2-486B-A83A-056B9F370073/Library/Cookies/Cookies.binarycookies
+2015-03-12 18:56:19.909 blank[4529:116900] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 18:56:19.910 blank[4529:116900] Multi-tasking -> Device: YES, App: YES
+2015-03-12 18:56:19.924 blank[4529:116900] Unlimited access to network resources
+2015-03-12 18:56:20.282 blank[4529:116900] [CDVTimer][keyboard] 0.074983ms
+2015-03-12 18:56:20.377 blank[4529:116900] [CDVTimer][splashscreen] 94.492018ms
+2015-03-12 18:56:20.381 blank[4529:116900] [CDVTimer][statusbar] 3.643990ms
+2015-03-12 18:56:20.381 blank[4529:116900] [CDVTimer][TotalPluginStartup] 98.747969ms
+2015-03-12 18:56:20.575 blank[4529:116900] Resetting plugins due to page load.
+2015-03-12 18:56:21.187 blank[4529:116900] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 18:56:35.801 blank[4529:116900] {"isIonicTap":true}
+2015-03-12 18:56:35.801 blank[4529:116900] submitting..
+2015-03-12 18:56:43.143 blank[4529:116900] {"isIonicTap":true}
+2015-03-12 18:56:43.143 blank[4529:116900] submitting..
+2015-03-12 18:56:58.661 blank[4529:116900] {"isIonicTap":true}
+2015-03-12 18:56:58.661 blank[4529:116900] submitting..
+2015-03-12 18:56:58.823 blank[4529:116900] succesfullAuth!
+2015-03-12 18:56:59.127 blank[4529:116900] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 18:57:06.752 blank[4529:116900] tabController
+2015-03-12 18:57:06.753 blank[4529:116900] available resolver initialized!
+2015-03-12 18:57:09.647 blank[4529:116900] completed initiated
+2015-03-12 18:57:12.279 blank[4529:116900] activeTaskResolver!
+2015-03-12 18:57:12.331 blank[4529:116900] activeTaskController initiated
+2015-03-12 18:57:21.517 blank[4529:116900] {"0":0,"1":{"text":"Complete","$$hashKey":"object:98"}}
+2015-03-12 18:57:23.644 blank[4529:116900] subscriptionsController!
+2015-03-12 18:57:26.346 blank[4529:116900] [{"id":1,"name":"clean kitchen","description":"Spend 5 minutes tidying the kitchen a bit","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.290Z","updated_at":"2015-03-13T00:05:39.290Z"},{"id":2,"name":"clean living room","description":"Spend 5 minutes cleaning up living room, cables and whatnot","cost_estimate":0,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.342Z","updated_at":"2015-03-13T00:05:39.342Z"},{"id":3,"name":"throw a pizza party","description":"Surprise everybody with a pizza party","cost_estimate":45,"score":0,"public":true,"user_id":null,"created_at":"2015-03-13T00:05:39.347Z","updated_at":"2015-03-13T00:05:39.347Z"}]
+2015-03-12 18:57:26.347 blank[4529:116900] showtask launched!
+2015-03-12 18:57:33.861 blank[4529:116900] back button clicked
+2015-03-12 18:57:33.861 blank[4529:116900] localstoragecheck 
+2015-03-12 18:57:35.021 blank[4529:116900] back button clicked
+2015-03-12 18:57:35.021 blank[4529:116900] localstoragecheck 
+2015-03-12 18:58:11.382 blank[4529:117756] Terminating since there is no system app.
+2015-03-12 18:58:34.934 blank[4768:118554] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/E0E57ED1-A237-4983-9CAE-34AB85950477/Library/Cookies/Cookies.binarycookies
+2015-03-12 18:58:35.001 blank[4768:118554] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 18:58:35.002 blank[4768:118554] Multi-tasking -> Device: YES, App: YES
+2015-03-12 18:58:35.004 blank[4768:118554] Unlimited access to network resources
+2015-03-12 18:58:35.108 blank[4768:118554] [CDVTimer][keyboard] 0.074029ms
+2015-03-12 18:58:35.153 blank[4768:118554] [CDVTimer][splashscreen] 44.651985ms
+2015-03-12 18:58:35.157 blank[4768:118554] [CDVTimer][statusbar] 3.639996ms
+2015-03-12 18:58:35.157 blank[4768:118554] [CDVTimer][TotalPluginStartup] 48.923016ms
+2015-03-12 18:58:35.264 blank[4768:118554] Resetting plugins due to page load.
+2015-03-12 18:58:35.951 blank[4768:118554] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 19:00:18.248 blank[4768:118554] {"isIonicTap":true}
+2015-03-12 19:00:18.250 blank[4768:118554] submitting..
+2015-03-12 19:00:18.482 blank[4768:118554] succesfullAuth!
+2015-03-12 19:00:18.723 blank[4768:118554] {"email":"phaugen@gmail.com","id":1,"username":"admin"}
+2015-03-12 19:00:25.006 blank[4768:118554] tabController
+2015-03-12 19:00:25.006 blank[4768:118554] available resolver initialized!
+2015-03-12 19:00:26.237 blank[4768:118554] back button clicked
+2015-03-12 19:00:26.237 blank[4768:118554] localstoragecheck 
+2015-03-12 19:00:30.035 blank[4768:118554] back button clicked
+2015-03-12 19:00:30.035 blank[4768:118554] localstoragecheck 
+2015-03-12 19:00:59.246 blank[4768:119623] Terminating since there is no system app.
+2015-03-12 19:01:16.278 blank[5008:120457] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/A892C161-0622-4B26-99A8-52E0DD48A246/Library/Cookies/Cookies.binarycookies
+2015-03-12 19:01:16.346 blank[5008:120457] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 19:01:16.347 blank[5008:120457] Multi-tasking -> Device: YES, App: YES
+2015-03-12 19:01:16.349 blank[5008:120457] Unlimited access to network resources
+2015-03-12 19:01:16.474 blank[5008:120457] [CDVTimer][keyboard] 0.125051ms
+2015-03-12 19:01:16.521 blank[5008:120457] [CDVTimer][splashscreen] 46.443999ms
+2015-03-12 19:01:16.525 blank[5008:120457] [CDVTimer][statusbar] 4.088998ms
+2015-03-12 19:01:16.525 blank[5008:120457] [CDVTimer][TotalPluginStartup] 51.356018ms
+2015-03-12 19:01:16.789 blank[5008:120457] Resetting plugins due to page load.
+2015-03-12 19:01:17.283 blank[5008:120457] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 19:01:17.336 blank[5008:120457] activeTaskResolverCopy!
+2015-03-12 19:01:17.336 blank[5008:120457] authcontroller activated
+2015-03-12 19:09:17.225 blank[5008:120457] {"isIonicTap":true}
+2015-03-12 19:09:17.226 blank[5008:120457] submitting..
+2015-03-12 19:09:17.512 blank[5008:120457] succesfullAuth!
+2015-03-12 19:09:17.781 blank[5008:120457] {"email":"dbc@dbc.com","id":5,"username":"vinny"}
+2015-03-12 19:09:27.619 blank[5008:120457] tabController
+2015-03-12 19:09:27.619 blank[5008:120457] available resolver initialized!
+2015-03-12 19:09:32.929 blank[5008:120457] completed initiated
+2015-03-12 19:21:58.875 blank[5008:120457] back button clicked
+2015-03-12 19:21:58.876 blank[5008:120457] localstoragecheck 
+2015-03-12 19:22:00.264 blank[5008:120457] back button clicked
+2015-03-12 19:22:00.264 blank[5008:120457] localstoragecheck 
+2015-03-12 19:23:47.275 blank[5008:120457] tabController
+2015-03-12 19:23:48.626 blank[5008:120457] subscriptionsController!
+2015-03-12 19:23:49.112 blank[5008:120457] activeTaskResolver!
+2015-03-12 19:23:49.217 blank[5008:120457] error with fetching active tasks
+2015-03-12 19:23:57.914 blank[5008:120457] back button clicked
+2015-03-12 19:23:57.914 blank[5008:120457] localstoragecheck 
+2015-03-12 19:24:00.835 blank[5008:129232] Terminating since there is no system app.
+2015-03-12 19:24:29.429 blank[5506:130420] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/4A753365-88AF-4020-8FF0-185A5392A34D/Library/Cookies/Cookies.binarycookies
+2015-03-12 19:24:29.485 blank[5506:130420] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-12 19:24:29.486 blank[5506:130420] Multi-tasking -> Device: YES, App: YES
+2015-03-12 19:24:29.502 blank[5506:130420] Unlimited access to network resources
+2015-03-12 19:24:29.678 blank[5506:130420] [CDVTimer][keyboard] 0.067949ms
+2015-03-12 19:24:29.756 blank[5506:130420] [CDVTimer][splashscreen] 78.557014ms
+2015-03-12 19:24:29.760 blank[5506:130420] [CDVTimer][statusbar] 3.350973ms
+2015-03-12 19:24:29.760 blank[5506:130420] [CDVTimer][TotalPluginStartup] 82.517982ms
+2015-03-12 19:24:29.899 blank[5506:130420] Resetting plugins due to page load.
+2015-03-12 19:24:30.389 blank[5506:130420] Finished load of: http://192.168.1.208:8100/#/
+2015-03-12 19:26:24.237 blank[5506:130420] {"isIonicTap":true}
+2015-03-12 19:26:24.237 blank[5506:130420] submitting..
+2015-03-12 19:26:24.789 blank[5506:130420] succesfullAuth!
+2015-03-12 19:26:24.847 blank[5506:130420] {"email":"dbc@dbc.com","id":3,"username":"Vinny"}
+2015-03-12 19:26:28.367 blank[5506:130420] tabController
+2015-03-12 19:26:28.367 blank[5506:130420] available resolver initialized!
+2015-03-12 19:26:32.273 blank[5506:130420] activeTaskResolver!
+2015-03-12 19:26:32.331 blank[5506:130420] activeTaskController initiated
+2015-03-12 19:29:51.677 blank[5506:130420] back button clicked
+2015-03-12 19:29:51.679 blank[5506:130420] localstoragecheck 
+2015-03-12 19:29:54.137 blank[5506:130420] back button clicked
+2015-03-12 19:29:54.137 blank[5506:130420] localstoragecheck 
+2015-03-12 19:30:25.942 blank[5506:130420] tabController
+2015-03-12 19:30:30.139 blank[5506:130420] back button clicked
+2015-03-12 19:30:30.139 blank[5506:130420] localstoragecheck 
+2015-03-12 19:30:37.315 blank[5506:130420] activeTaskController initiated
+2015-03-12 19:31:28.970 blank[5506:130420] {"0":0,"1":{"text":"Complete","$$hashKey":"object:107"}}
+2015-03-13 10:00:21.557 blank[6519:169928] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/B53E43C2-73B4-4CFB-A5CE-7EEC60D2F242/Library/Cookies/Cookies.binarycookies
+2015-03-13 10:00:21.643 blank[6519:169928] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 10:00:21.643 blank[6519:169928] Multi-tasking -> Device: YES, App: YES
+2015-03-13 10:00:21.647 blank[6519:169928] Unlimited access to network resources
+2015-03-13 10:00:21.842 blank[6519:169928] [CDVTimer][keyboard] 0.069022ms
+2015-03-13 10:00:21.882 blank[6519:169928] [CDVTimer][splashscreen] 39.231002ms
+2015-03-13 10:00:21.885 blank[6519:169928] [CDVTimer][statusbar] 3.548026ms
+2015-03-13 10:00:21.886 blank[6519:169928] [CDVTimer][TotalPluginStartup] 43.375969ms
+2015-03-13 10:00:21.996 blank[6519:169928] Resetting plugins due to page load.
+2015-03-13 10:00:22.549 blank[6519:169928] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 10:04:47.490 blank[6519:169928] {"isIonicTap":true}
+2015-03-13 10:04:47.490 blank[6519:169928] submitting..
+2015-03-13 10:04:48.000 blank[6519:169928] succesfullAuth!
+2015-03-13 10:04:48.053 blank[6519:169928] {"email":"dbc@dbc.com","id":3,"username":"DBC"}
+2015-03-13 10:04:57.981 blank[6519:169928] tabController
+2015-03-13 10:04:57.981 blank[6519:169928] available resolver initialized!
+2015-03-13 10:05:00.429 blank[6519:169928] activeTaskResolver!
+2015-03-13 10:05:00.490 blank[6519:169928] activeTaskController initiated
+2015-03-13 10:05:07.100 blank[6519:169928] {"0":0,"1":{"text":"Complete","$$hashKey":"object:57"}}
+2015-03-13 10:13:42.129 blank[6894:176967] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/CFD80649-C2F8-46CF-9675-45DA9D1B49A5/Library/Cookies/Cookies.binarycookies
+2015-03-13 10:13:42.236 blank[6894:176967] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 10:13:42.236 blank[6894:176967] Multi-tasking -> Device: YES, App: YES
+2015-03-13 10:13:42.259 blank[6894:176967] Unlimited access to network resources
+2015-03-13 10:13:42.715 blank[6894:176967] [CDVTimer][keyboard] 0.072002ms
+2015-03-13 10:13:42.862 blank[6894:176967] [CDVTimer][splashscreen] 146.395981ms
+2015-03-13 10:13:42.865 blank[6894:176967] [CDVTimer][statusbar] 3.228009ms
+2015-03-13 10:13:42.865 blank[6894:176967] [CDVTimer][TotalPluginStartup] 150.236011ms
+2015-03-13 10:13:43.101 blank[6894:176967] Resetting plugins due to page load.
+2015-03-13 10:13:43.883 blank[6894:176967] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 10:13:55.082 blank[6894:176967] {"isIonicTap":true}
+2015-03-13 10:13:55.082 blank[6894:176967] submitting..
+2015-03-13 10:13:55.319 blank[6894:176967] succesfullAuth!
+2015-03-13 10:13:55.551 blank[6894:176967] {"email":"dbc@dbc.com","id":3,"username":"DBC"}
+2015-03-13 10:14:26.949 blank[7112:178117] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/8E25D481-D3F7-439F-8578-1920AC3CE10F/Library/Cookies/Cookies.binarycookies
+2015-03-13 10:14:27.034 blank[7112:178117] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 10:14:27.034 blank[7112:178117] Multi-tasking -> Device: YES, App: YES
+2015-03-13 10:14:27.038 blank[7112:178117] Unlimited access to network resources
+2015-03-13 10:14:27.147 blank[7112:178117] [CDVTimer][keyboard] 0.068009ms
+2015-03-13 10:14:27.164 blank[7112:178117] [CDVTimer][splashscreen] 17.265022ms
+2015-03-13 10:14:27.168 blank[7112:178117] [CDVTimer][statusbar] 3.334999ms
+2015-03-13 10:14:27.168 blank[7112:178117] [CDVTimer][TotalPluginStartup] 21.224976ms
+2015-03-13 10:14:27.297 blank[7112:178117] Resetting plugins due to page load.
+2015-03-13 10:14:27.701 blank[7112:178117] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 10:17:37.895 blank[7112:178117] {"isIonicTap":true}
+2015-03-13 10:17:37.897 blank[7112:178117] submitting..
+2015-03-13 10:17:38.166 blank[7112:178117] succesfullAuth!
+2015-03-13 10:17:38.415 blank[7112:178117] {"email":"dbc@dbc.com","id":3,"username":"DBC"}
+2015-03-13 10:17:52.621 blank[7112:178117] tabController
+2015-03-13 10:17:52.621 blank[7112:178117] available resolver initialized!
+2015-03-13 10:17:55.536 blank[7112:178117] activeTaskResolver!
+2015-03-13 10:17:55.594 blank[7112:178117] activeTaskController initiated
+2015-03-13 10:18:02.125 blank[7112:178117] {"0":0,"1":{"text":"Complete","$$hashKey":"object:57"}}
+2015-03-13 10:28:41.532 blank[7468:182847] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/737E4BD7-BF6F-4EB5-8823-66949AA01813/Library/Cookies/Cookies.binarycookies
+2015-03-13 10:28:41.631 blank[7468:182847] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 10:28:41.631 blank[7468:182847] Multi-tasking -> Device: YES, App: YES
+2015-03-13 10:28:41.634 blank[7468:182847] Unlimited access to network resources
+2015-03-13 10:28:41.742 blank[7468:182847] [CDVTimer][keyboard] 0.079989ms
+2015-03-13 10:28:41.760 blank[7468:182847] [CDVTimer][splashscreen] 17.697036ms
+2015-03-13 10:28:41.765 blank[7468:182847] [CDVTimer][statusbar] 4.007995ms
+2015-03-13 10:28:41.765 blank[7468:182847] [CDVTimer][TotalPluginStartup] 22.367001ms
+2015-03-13 10:28:41.864 blank[7468:182847] Resetting plugins due to page load.
+2015-03-13 10:28:42.282 blank[7468:182847] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 11:45:36.213 blank[7468:182847] {"isIonicTap":true}
+2015-03-13 11:45:36.214 blank[7468:182847] submitting..
+2015-03-13 11:45:40.474 blank[7468:182847] {"isIonicTap":true}
+2015-03-13 11:45:40.474 blank[7468:182847] submitting..
+2015-03-13 11:45:46.283 blank[7468:182847] {"isIonicTap":true}
+2015-03-13 11:45:46.283 blank[7468:182847] submitting..
+2015-03-13 11:45:50.964 blank[7468:182847] {"isIonicTap":true}
+2015-03-13 11:45:50.964 blank[7468:182847] submitting..
+2015-03-13 11:47:08.757 blank[7468:182847] Resetting plugins due to page load.
+2015-03-13 11:47:09.323 blank[7468:182847] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 11:48:15.056 blank[7939:194148] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/D571F8AA-C62A-4054-812C-3F1372ADE4D7/Library/Cookies/Cookies.binarycookies
+2015-03-13 11:48:15.216 blank[7939:194148] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 11:48:15.217 blank[7939:194148] Multi-tasking -> Device: YES, App: YES
+2015-03-13 11:48:15.232 blank[7939:194148] Unlimited access to network resources
+2015-03-13 11:48:15.425 blank[7939:194148] [CDVTimer][keyboard] 0.075996ms
+2015-03-13 11:48:15.496 blank[7939:194148] [CDVTimer][splashscreen] 70.528030ms
+2015-03-13 11:48:15.502 blank[7939:194148] [CDVTimer][statusbar] 6.199002ms
+2015-03-13 11:48:15.502 blank[7939:194148] [CDVTimer][TotalPluginStartup] 77.368021ms
+2015-03-13 11:48:15.670 blank[7939:194148] Resetting plugins due to page load.
+2015-03-13 11:48:16.304 blank[7939:194148] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 11:48:21.622 blank[7939:194148] {"isIonicTap":true}
+2015-03-13 11:48:21.622 blank[7939:194148] submitting..
+2015-03-13 11:48:22.089 blank[7939:194148] succesfullAuth!
+2015-03-13 11:48:22.155 blank[7939:194148] {"email":"dbc@dbc.com","id":3,"username":"DBC"}
+2015-03-13 11:48:26.601 blank[7939:194169] Terminating since there is no system app.
+2015-03-13 11:48:47.537 blank[8150:195127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Moeys/Library/Developer/CoreSimulator/Devices/7C960BB8-6125-4E58-B58B-121EA6170B46/data/Containers/Data/Application/ACB254F3-35F1-4750-A5F4-6D4661FB2DF9/Library/Cookies/Cookies.binarycookies
+2015-03-13 11:48:47.596 blank[8150:195127] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-13 11:48:47.597 blank[8150:195127] Multi-tasking -> Device: YES, App: YES
+2015-03-13 11:48:47.599 blank[8150:195127] Unlimited access to network resources
+2015-03-13 11:48:47.697 blank[8150:195127] [CDVTimer][keyboard] 0.086010ms
+2015-03-13 11:48:47.745 blank[8150:195127] [CDVTimer][splashscreen] 47.627985ms
+2015-03-13 11:48:47.748 blank[8150:195127] [CDVTimer][statusbar] 3.135979ms
+2015-03-13 11:48:47.748 blank[8150:195127] [CDVTimer][TotalPluginStartup] 51.389992ms
+2015-03-13 11:48:47.852 blank[8150:195127] Resetting plugins due to page load.
+2015-03-13 11:48:48.402 blank[8150:195127] Finished load of: http://192.168.1.208:8100/#/
+2015-03-13 11:52:16.544 blank[8150:195127] {"isIonicTap":true}
+2015-03-13 11:52:16.547 blank[8150:195127] submitting..
+2015-03-13 11:52:16.742 blank[8150:195127] succesfullAuth!
+2015-03-13 11:52:17.005 blank[8150:195127] {"email":"dbc@dbc.com","id":3,"username":"DBC"}
+2015-03-13 11:52:32.464 blank[8150:195127] tabController
+2015-03-13 11:52:32.464 blank[8150:195127] available resolver initialized!
+2015-03-13 11:52:35.309 blank[8150:195127] activeTaskResolver!
+2015-03-13 11:52:35.371 blank[8150:195127] activeTaskController initiated
+2015-03-13 11:52:38.613 blank[8150:195127] {"0":0,"1":{"text":"Complete","$$hashKey":"object:57"}}
+2015-03-14 20:51:55.862 blank[8150:195127] subscriptionsController!
+2015-03-14 20:51:55.908 blank[8150:195127] THREAD WARNING: ['Keyboard'] took '40.528809' ms. Plugin should use a background thread.
+2015-03-14 20:51:58.057 blank[8150:195127] completed initiated

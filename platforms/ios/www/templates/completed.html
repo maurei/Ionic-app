@@ -1,0 +1,9 @@
+<style type="text/css">
+.pane, .view {
+  background-image: none; }
+</style>
+<ion-view title="Completed tasks">
+	<ion-content>
+	          <completed-task ng-repeat="(assignmentId, task) in assignments"></completed-task>
+	</ion-content>
+</ion-view>
